@@ -1,0 +1,1501 @@
+age,age_group,credit_amount,duration,purpose,savings,employment,credit_risk
+61,Middle-aged+,3471,36,other,rich,4-7yr,bad
+48,Middle-aged+,500,60,car,quite rich,unemployed,good
+35,Middle-aged+,920,6,other,little,4-7yr,good
+35,Middle-aged+,2583,12,other,moderate,1-4yr,good
+50,Middle-aged+,500,36,car,moderate,>7yr,good
+54,Middle-aged+,5995,36,other,little,1-4yr,good
+18,Young,599,48,other,moderate,<1yr,bad
+19,Young,8738,24,other,moderate,>7yr,bad
+44,Middle-aged+,500,6,repairs,little,4-7yr,good
+39,Middle-aged+,578,12,other,little,1-4yr,good
+52,Middle-aged+,3115,24,car,quite rich,>7yr,good
+60,Middle-aged+,1354,6,car,little,>7yr,good
+18,Young,597,24,repairs,moderate,<1yr,bad
+34,Middle-aged+,2899,36,furniture,moderate,1-4yr,good
+54,Middle-aged+,952,48,furniture,rich,1-4yr,good
+50,Middle-aged+,6490,24,furniture,moderate,<1yr,bad
+32,Middle-aged+,1122,12,repairs,rich,>7yr,good
+34,Middle-aged+,7923,36,other,little,>7yr,good
+51,Middle-aged+,532,24,car,moderate,1-4yr,good
+27,Young,4121,60,car,little,1-4yr,bad
+40,Middle-aged+,6457,60,furniture,quite rich,4-7yr,bad
+57,Middle-aged+,500,48,furniture,little,<1yr,bad
+18,Young,1539,36,car,little,1-4yr,good
+18,Young,7260,24,other,rich,<1yr,good
+51,Middle-aged+,11253,6,other,rich,<1yr,bad
+25,Young,500,24,education,moderate,>7yr,good
+32,Middle-aged+,513,36,car,quite rich,unemployed,good
+18,Young,6255,12,other,little,1-4yr,good
+33,Middle-aged+,500,24,other,little,1-4yr,good
+46,Middle-aged+,4894,6,other,rich,4-7yr,good
+47,Middle-aged+,7328,12,repairs,little,unemployed,bad
+48,Middle-aged+,1816,60,car,little,1-4yr,bad
+18,Young,3401,48,car,little,4-7yr,bad
+31,Middle-aged+,500,12,furniture,little,4-7yr,good
+28,Young,6436,48,furniture,quite rich,4-7yr,bad
+36,Middle-aged+,1077,24,education,moderate,4-7yr,good
+54,Middle-aged+,2035,36,car,little,1-4yr,good
+42,Middle-aged+,5847,24,other,moderate,4-7yr,good
+36,Middle-aged+,1619,24,repairs,little,4-7yr,bad
+40,Middle-aged+,4482,36,car,rich,4-7yr,good
+51,Middle-aged+,2654,60,repairs,quite rich,1-4yr,good
+38,Middle-aged+,584,24,furniture,quite rich,>7yr,good
+46,Middle-aged+,1540,60,repairs,rich,1-4yr,bad
+32,Middle-aged+,23362,24,education,little,1-4yr,good
+38,Middle-aged+,9707,36,car,rich,<1yr,good
+33,Middle-aged+,5314,36,repairs,moderate,4-7yr,good
+49,Middle-aged+,1015,12,furniture,moderate,4-7yr,good
+38,Middle-aged+,928,6,furniture,quite rich,4-7yr,good
+19,Young,3077,12,car,little,>7yr,good
+22,Young,5885,24,repairs,rich,4-7yr,good
+32,Middle-aged+,792,6,repairs,quite rich,4-7yr,good
+40,Middle-aged+,3030,24,education,little,1-4yr,good
+63,Middle-aged+,2325,12,car,little,1-4yr,good
+45,Middle-aged+,2326,48,education,moderate,4-7yr,good
+30,Middle-aged+,1613,12,education,quite rich,4-7yr,good
+50,Middle-aged+,956,12,car,little,4-7yr,bad
+54,Middle-aged+,723,36,car,little,>7yr,good
+38,Middle-aged+,805,24,car,rich,4-7yr,good
+52,Middle-aged+,5518,48,other,little,4-7yr,good
+21,Young,2978,36,furniture,moderate,1-4yr,bad
+62,Middle-aged+,1207,6,repairs,moderate,>7yr,good
+27,Young,2823,48,education,quite rich,<1yr,bad
+41,Middle-aged+,2474,36,furniture,moderate,4-7yr,good
+18,Young,5339,48,car,quite rich,<1yr,bad
+44,Middle-aged+,2930,12,repairs,moderate,unemployed,good
+47,Middle-aged+,3691,12,furniture,little,unemployed,good
+18,Young,586,48,education,moderate,>7yr,bad
+37,Middle-aged+,1636,60,furniture,moderate,4-7yr,bad
+30,Middle-aged+,4622,12,education,moderate,4-7yr,good
+44,Middle-aged+,2632,60,education,little,1-4yr,good
+18,Young,3212,24,car,quite rich,1-4yr,good
+64,Middle-aged+,500,24,furniture,rich,4-7yr,good
+35,Middle-aged+,10439,24,education,moderate,1-4yr,bad
+33,Middle-aged+,2894,6,car,little,<1yr,good
+25,Young,2805,24,furniture,little,>7yr,good
+52,Middle-aged+,4322,24,repairs,quite rich,1-4yr,good
+60,Middle-aged+,1619,12,repairs,quite rich,4-7yr,good
+19,Young,1589,48,other,moderate,1-4yr,good
+30,Middle-aged+,5938,12,education,moderate,4-7yr,good
+51,Middle-aged+,1552,6,other,little,1-4yr,bad
+44,Middle-aged+,2787,6,repairs,rich,unemployed,good
+26,Young,1548,6,furniture,little,4-7yr,good
+41,Middle-aged+,11626,24,education,quite rich,1-4yr,bad
+51,Middle-aged+,10225,12,car,little,<1yr,good
+25,Young,741,24,education,rich,<1yr,bad
+45,Middle-aged+,500,6,car,moderate,<1yr,good
+53,Middle-aged+,1939,36,furniture,moderate,1-4yr,bad
+39,Middle-aged+,1406,60,other,rich,4-7yr,good
+29,Young,5914,12,education,quite rich,1-4yr,good
+46,Middle-aged+,3675,48,repairs,moderate,4-7yr,good
+31,Middle-aged+,500,12,furniture,moderate,1-4yr,good
+71,Middle-aged+,1453,36,education,rich,<1yr,good
+23,Young,1969,48,car,little,<1yr,bad
+42,Middle-aged+,500,24,furniture,little,>7yr,bad
+57,Middle-aged+,978,24,education,quite rich,<1yr,good
+31,Middle-aged+,3208,6,education,moderate,4-7yr,good
+20,Young,5015,36,education,little,1-4yr,bad
+22,Young,3153,24,repairs,little,1-4yr,good
+26,Young,1347,48,car,moderate,unemployed,good
+30,Middle-aged+,1608,24,furniture,quite rich,1-4yr,good
+39,Middle-aged+,2835,48,car,quite rich,1-4yr,bad
+39,Middle-aged+,15716,60,other,little,1-4yr,bad
+47,Middle-aged+,3246,24,repairs,quite rich,>7yr,bad
+44,Middle-aged+,844,36,repairs,moderate,4-7yr,good
+18,Young,6596,12,car,moderate,>7yr,good
+53,Middle-aged+,1132,48,education,moderate,1-4yr,bad
+28,Young,8498,36,other,quite rich,1-4yr,good
+18,Young,1053,36,repairs,little,1-4yr,bad
+43,Middle-aged+,500,24,other,moderate,1-4yr,bad
+35,Middle-aged+,1448,36,car,little,4-7yr,good
+29,Young,8881,12,other,quite rich,4-7yr,good
+30,Middle-aged+,3628,36,car,rich,1-4yr,good
+50,Middle-aged+,1813,60,car,rich,>7yr,good
+37,Middle-aged+,3270,36,car,quite rich,unemployed,bad
+35,Middle-aged+,8049,36,car,moderate,1-4yr,good
+41,Middle-aged+,3715,36,car,moderate,4-7yr,bad
+19,Young,2748,12,other,moderate,unemployed,bad
+39,Middle-aged+,3753,36,education,quite rich,4-7yr,good
+34,Middle-aged+,2418,36,repairs,quite rich,<1yr,good
+49,Middle-aged+,3004,12,repairs,moderate,1-4yr,good
+39,Middle-aged+,5416,24,repairs,rich,1-4yr,good
+64,Middle-aged+,500,24,furniture,rich,1-4yr,good
+46,Middle-aged+,1448,24,repairs,little,4-7yr,good
+40,Middle-aged+,4251,48,car,little,<1yr,bad
+29,Young,2082,36,furniture,little,1-4yr,bad
+22,Young,8673,24,car,quite rich,4-7yr,bad
+24,Young,2576,48,education,moderate,>7yr,bad
+62,Middle-aged+,9404,36,furniture,little,4-7yr,good
+45,Middle-aged+,3379,24,repairs,quite rich,<1yr,good
+32,Middle-aged+,2659,24,car,rich,4-7yr,good
+55,Middle-aged+,8312,36,furniture,little,<1yr,bad
+18,Young,9047,24,other,rich,unemployed,bad
+25,Young,572,24,repairs,little,4-7yr,bad
+35,Middle-aged+,8170,36,car,quite rich,1-4yr,good
+18,Young,1772,12,education,moderate,4-7yr,bad
+60,Middle-aged+,2540,12,car,moderate,1-4yr,bad
+58,Middle-aged+,754,36,repairs,little,1-4yr,bad
+30,Middle-aged+,681,24,furniture,moderate,>7yr,good
+38,Middle-aged+,1450,48,education,quite rich,1-4yr,bad
+35,Middle-aged+,1753,48,furniture,little,1-4yr,good
+56,Middle-aged+,500,24,furniture,rich,4-7yr,good
+50,Middle-aged+,8921,12,other,quite rich,1-4yr,good
+38,Middle-aged+,500,60,furniture,quite rich,>7yr,good
+72,Middle-aged+,3803,24,other,rich,>7yr,good
+24,Young,1077,48,car,moderate,4-7yr,bad
+32,Middle-aged+,4852,6,education,little,1-4yr,good
+45,Middle-aged+,2018,24,car,little,4-7yr,good
+43,Middle-aged+,6239,24,car,moderate,4-7yr,good
+47,Middle-aged+,4731,36,car,moderate,>7yr,good
+37,Middle-aged+,5466,24,furniture,moderate,1-4yr,good
+53,Middle-aged+,575,6,education,moderate,1-4yr,good
+51,Middle-aged+,6398,36,repairs,little,4-7yr,bad
+51,Middle-aged+,500,36,other,rich,>7yr,good
+41,Middle-aged+,5911,24,repairs,moderate,>7yr,good
+53,Middle-aged+,2168,48,education,little,1-4yr,good
+29,Young,1115,48,car,little,4-7yr,good
+60,Middle-aged+,19127,6,repairs,little,4-7yr,good
+44,Middle-aged+,3453,36,other,little,1-4yr,good
+47,Middle-aged+,500,6,education,moderate,<1yr,bad
+18,Young,4013,36,furniture,little,1-4yr,bad
+18,Young,1901,36,car,moderate,4-7yr,bad
+20,Young,1458,6,car,little,1-4yr,good
+57,Middle-aged+,7282,36,other,little,unemployed,good
+32,Middle-aged+,5575,36,furniture,moderate,>7yr,good
+25,Young,5770,48,car,moderate,4-7yr,bad
+40,Middle-aged+,2558,12,furniture,little,<1yr,good
+18,Young,5175,24,car,moderate,1-4yr,bad
+75,Middle-aged+,2743,24,other,moderate,<1yr,good
+60,Middle-aged+,4874,24,car,moderate,4-7yr,good
+37,Middle-aged+,6033,12,repairs,quite rich,1-4yr,good
+34,Middle-aged+,500,24,education,quite rich,4-7yr,good
+46,Middle-aged+,1545,36,other,moderate,unemployed,bad
+44,Middle-aged+,14633,36,education,little,>7yr,bad
+42,Middle-aged+,4284,36,repairs,quite rich,1-4yr,good
+36,Middle-aged+,2405,36,car,moderate,>7yr,good
+46,Middle-aged+,1400,12,repairs,quite rich,1-4yr,good
+41,Middle-aged+,1860,12,furniture,quite rich,4-7yr,good
+32,Middle-aged+,1261,36,education,little,>7yr,good
+29,Young,6798,12,education,quite rich,1-4yr,bad
+53,Middle-aged+,12462,24,furniture,little,>7yr,bad
+39,Middle-aged+,5076,12,repairs,little,1-4yr,good
+37,Middle-aged+,509,36,education,rich,<1yr,good
+26,Young,500,48,education,moderate,4-7yr,bad
+31,Middle-aged+,7040,60,repairs,rich,1-4yr,good
+35,Middle-aged+,7460,24,repairs,moderate,<1yr,good
+34,Middle-aged+,1623,24,repairs,moderate,>7yr,good
+42,Middle-aged+,5515,48,furniture,little,1-4yr,good
+40,Middle-aged+,3168,12,other,moderate,4-7yr,good
+36,Middle-aged+,4024,60,furniture,moderate,4-7yr,good
+34,Middle-aged+,1307,24,car,little,1-4yr,good
+35,Middle-aged+,2430,24,repairs,moderate,>7yr,good
+52,Middle-aged+,1272,48,other,little,1-4yr,good
+36,Middle-aged+,5768,36,education,moderate,<1yr,bad
+63,Middle-aged+,1226,60,education,moderate,1-4yr,good
+53,Middle-aged+,1283,6,repairs,little,1-4yr,good
+23,Young,3590,36,education,little,1-4yr,bad
+23,Young,500,12,furniture,quite rich,1-4yr,good
+68,Middle-aged+,500,12,repairs,moderate,unemployed,good
+23,Young,2476,24,furniture,moderate,1-4yr,bad
+18,Young,1688,6,furniture,quite rich,4-7yr,good
+52,Middle-aged+,550,24,other,moderate,1-4yr,bad
+67,Middle-aged+,1023,36,furniture,quite rich,>7yr,good
+34,Middle-aged+,3286,36,education,little,<1yr,good
+42,Middle-aged+,2636,6,repairs,little,>7yr,good
+32,Middle-aged+,2695,12,repairs,quite rich,unemployed,good
+51,Middle-aged+,20853,6,furniture,little,4-7yr,good
+53,Middle-aged+,3314,36,repairs,rich,4-7yr,good
+18,Young,4841,12,furniture,rich,1-4yr,good
+45,Middle-aged+,4150,24,other,moderate,>7yr,good
+24,Young,8322,24,furniture,rich,4-7yr,good
+53,Middle-aged+,2209,24,education,rich,1-4yr,good
+20,Young,2641,24,car,little,1-4yr,bad
+42,Middle-aged+,3637,60,other,rich,1-4yr,bad
+35,Middle-aged+,4499,60,repairs,little,1-4yr,bad
+28,Young,4993,6,furniture,moderate,1-4yr,bad
+18,Young,2772,6,education,moderate,1-4yr,bad
+18,Young,7034,12,car,quite rich,>7yr,good
+31,Middle-aged+,5590,48,other,quite rich,4-7yr,bad
+28,Young,500,36,repairs,quite rich,<1yr,bad
+64,Middle-aged+,500,36,car,moderate,1-4yr,good
+35,Middle-aged+,3710,12,repairs,rich,1-4yr,good
+46,Middle-aged+,3034,24,repairs,moderate,4-7yr,good
+23,Young,7003,24,other,little,1-4yr,good
+24,Young,932,60,car,quite rich,1-4yr,bad
+27,Young,1871,6,repairs,quite rich,1-4yr,bad
+42,Middle-aged+,7882,36,education,rich,1-4yr,good
+30,Middle-aged+,4001,48,education,rich,>7yr,good
+26,Young,3419,36,education,little,<1yr,bad
+43,Middle-aged+,1919,6,car,little,4-7yr,good
+28,Young,791,36,repairs,moderate,4-7yr,good
+29,Young,1958,24,education,little,1-4yr,bad
+19,Young,4283,48,furniture,little,4-7yr,bad
+30,Middle-aged+,2994,48,other,little,<1yr,bad
+27,Young,785,24,other,moderate,<1yr,good
+24,Young,3160,12,other,quite rich,>7yr,good
+42,Middle-aged+,41300,24,education,little,<1yr,bad
+32,Middle-aged+,8315,12,education,little,1-4yr,good
+41,Middle-aged+,3369,12,education,quite rich,4-7yr,good
+55,Middle-aged+,4063,48,car,little,>7yr,good
+52,Middle-aged+,7289,6,repairs,moderate,1-4yr,good
+18,Young,2080,24,other,little,1-4yr,bad
+39,Middle-aged+,1461,24,other,quite rich,>7yr,good
+27,Young,12811,12,car,moderate,4-7yr,bad
+35,Middle-aged+,1401,24,car,little,1-4yr,good
+51,Middle-aged+,5459,24,car,quite rich,unemployed,good
+42,Middle-aged+,1671,36,repairs,moderate,4-7yr,bad
+35,Middle-aged+,5120,6,education,little,<1yr,good
+35,Middle-aged+,1459,48,other,moderate,<1yr,bad
+38,Middle-aged+,3293,12,furniture,little,4-7yr,good
+18,Young,18666,60,furniture,moderate,<1yr,bad
+35,Middle-aged+,4405,24,car,rich,>7yr,good
+53,Middle-aged+,1190,24,other,little,>7yr,good
+27,Young,2191,36,education,rich,4-7yr,bad
+37,Middle-aged+,3251,12,education,quite rich,1-4yr,good
+54,Middle-aged+,6132,36,other,little,<1yr,bad
+65,Middle-aged+,1098,60,other,little,1-4yr,bad
+18,Young,2341,36,furniture,rich,4-7yr,good
+32,Middle-aged+,26114,6,car,moderate,unemployed,good
+24,Young,15819,24,car,little,1-4yr,good
+28,Young,5138,48,car,rich,>7yr,good
+56,Middle-aged+,3671,6,other,moderate,1-4yr,good
+38,Middle-aged+,4233,48,other,little,1-4yr,bad
+36,Middle-aged+,4122,36,other,rich,>7yr,bad
+24,Young,736,24,furniture,rich,4-7yr,good
+55,Middle-aged+,1190,24,repairs,moderate,unemployed,good
+29,Young,9190,60,other,moderate,4-7yr,bad
+34,Middle-aged+,4734,36,car,quite rich,4-7yr,good
+43,Middle-aged+,4058,24,furniture,rich,>7yr,good
+32,Middle-aged+,3790,24,repairs,little,4-7yr,good
+40,Middle-aged+,500,24,car,little,4-7yr,bad
+35,Middle-aged+,500,12,education,moderate,>7yr,good
+34,Middle-aged+,5826,6,furniture,rich,4-7yr,good
+20,Young,6587,48,other,moderate,<1yr,good
+34,Middle-aged+,7069,12,education,rich,<1yr,good
+71,Middle-aged+,4025,24,education,rich,4-7yr,good
+31,Middle-aged+,3877,24,furniture,little,1-4yr,good
+30,Middle-aged+,8440,60,repairs,rich,>7yr,good
+40,Middle-aged+,11535,24,other,little,>7yr,bad
+38,Middle-aged+,3562,60,other,little,>7yr,bad
+24,Young,1640,24,other,moderate,4-7yr,bad
+28,Young,878,24,car,moderate,>7yr,bad
+26,Young,3631,60,car,quite rich,4-7yr,bad
+37,Middle-aged+,6709,36,car,rich,<1yr,bad
+18,Young,5922,6,repairs,moderate,<1yr,good
+42,Middle-aged+,2091,6,car,moderate,unemployed,bad
+32,Middle-aged+,19008,24,repairs,little,1-4yr,bad
+39,Middle-aged+,3446,36,repairs,little,>7yr,good
+35,Middle-aged+,1533,60,car,quite rich,4-7yr,good
+38,Middle-aged+,4120,36,repairs,quite rich,1-4yr,good
+19,Young,13275,36,other,little,1-4yr,bad
+49,Middle-aged+,6916,36,car,moderate,4-7yr,bad
+41,Middle-aged+,2050,6,education,little,1-4yr,good
+23,Young,8581,36,furniture,little,4-7yr,bad
+25,Young,1086,12,repairs,rich,4-7yr,bad
+18,Young,10912,12,car,quite rich,>7yr,good
+33,Middle-aged+,2490,24,education,rich,unemployed,good
+34,Middle-aged+,12197,12,repairs,little,1-4yr,good
+43,Middle-aged+,13771,36,furniture,little,1-4yr,good
+18,Young,6141,24,car,moderate,<1yr,good
+18,Young,1080,12,repairs,quite rich,4-7yr,good
+51,Middle-aged+,2703,60,car,moderate,1-4yr,good
+50,Middle-aged+,7708,24,furniture,little,<1yr,bad
+40,Middle-aged+,3502,48,other,quite rich,4-7yr,good
+18,Young,688,36,furniture,moderate,4-7yr,bad
+35,Middle-aged+,2573,36,car,moderate,<1yr,good
+63,Middle-aged+,8637,36,education,little,>7yr,good
+40,Middle-aged+,12932,36,furniture,little,>7yr,bad
+32,Middle-aged+,541,24,furniture,little,>7yr,good
+29,Young,3757,36,car,rich,1-4yr,good
+18,Young,2034,36,other,quite rich,<1yr,good
+41,Middle-aged+,6564,24,education,quite rich,4-7yr,good
+71,Middle-aged+,561,36,furniture,rich,<1yr,good
+27,Young,500,36,car,little,<1yr,bad
+33,Middle-aged+,3697,60,car,little,1-4yr,good
+45,Middle-aged+,4105,24,car,moderate,1-4yr,bad
+18,Young,5998,36,car,moderate,4-7yr,bad
+46,Middle-aged+,15085,6,car,rich,4-7yr,good
+38,Middle-aged+,17708,6,repairs,quite rich,1-4yr,good
+20,Young,8153,24,car,rich,4-7yr,bad
+38,Middle-aged+,1587,12,furniture,little,4-7yr,good
+63,Middle-aged+,4765,24,other,quite rich,<1yr,good
+30,Middle-aged+,1787,24,education,little,1-4yr,good
+18,Young,6728,12,furniture,rich,1-4yr,good
+48,Middle-aged+,1041,36,furniture,quite rich,4-7yr,good
+24,Young,2198,12,furniture,moderate,4-7yr,good
+52,Middle-aged+,1348,24,other,little,1-4yr,good
+33,Middle-aged+,5134,24,education,moderate,>7yr,bad
+56,Middle-aged+,7319,24,repairs,quite rich,1-4yr,good
+35,Middle-aged+,9697,48,furniture,moderate,>7yr,good
+27,Young,9801,6,furniture,moderate,1-4yr,good
+41,Middle-aged+,5019,60,car,rich,1-4yr,good
+34,Middle-aged+,500,36,other,quite rich,unemployed,good
+21,Young,3833,36,furniture,little,1-4yr,good
+35,Middle-aged+,4716,36,education,little,1-4yr,good
+20,Young,980,36,repairs,little,1-4yr,bad
+18,Young,500,24,car,little,4-7yr,bad
+40,Middle-aged+,2383,12,furniture,moderate,>7yr,good
+38,Middle-aged+,946,12,repairs,little,>7yr,good
+59,Middle-aged+,2585,12,car,little,4-7yr,bad
+22,Young,500,12,other,moderate,<1yr,bad
+37,Middle-aged+,707,6,education,little,1-4yr,good
+23,Young,3155,12,furniture,rich,1-4yr,good
+49,Middle-aged+,14168,12,car,moderate,4-7yr,good
+49,Middle-aged+,1821,24,car,quite rich,4-7yr,good
+42,Middle-aged+,11799,12,furniture,little,4-7yr,bad
+65,Middle-aged+,1323,36,car,little,<1yr,bad
+57,Middle-aged+,22732,6,repairs,rich,4-7yr,good
+30,Middle-aged+,6634,60,repairs,quite rich,4-7yr,bad
+46,Middle-aged+,2368,12,furniture,little,4-7yr,good
+33,Middle-aged+,642,24,furniture,little,1-4yr,good
+39,Middle-aged+,2067,24,other,quite rich,<1yr,good
+23,Young,13188,36,other,moderate,4-7yr,bad
+37,Middle-aged+,14306,12,education,moderate,>7yr,good
+61,Middle-aged+,1394,36,education,little,1-4yr,good
+27,Young,4399,6,other,rich,<1yr,good
+18,Young,2972,60,furniture,little,4-7yr,bad
+32,Middle-aged+,8298,36,education,moderate,1-4yr,good
+36,Middle-aged+,500,24,car,moderate,>7yr,good
+39,Middle-aged+,3308,60,car,quite rich,1-4yr,good
+28,Young,7461,12,other,little,>7yr,bad
+30,Middle-aged+,2021,6,car,moderate,1-4yr,good
+62,Middle-aged+,1223,36,repairs,quite rich,<1yr,good
+46,Middle-aged+,1887,24,education,little,4-7yr,good
+38,Middle-aged+,786,48,furniture,quite rich,4-7yr,good
+32,Middle-aged+,500,48,other,moderate,1-4yr,good
+18,Young,3465,60,repairs,moderate,>7yr,bad
+65,Middle-aged+,7695,36,repairs,little,>7yr,good
+28,Young,4194,24,car,little,4-7yr,bad
+31,Middle-aged+,930,12,education,moderate,<1yr,good
+62,Middle-aged+,7431,36,car,little,1-4yr,good
+48,Middle-aged+,1387,24,other,little,4-7yr,good
+45,Middle-aged+,6914,48,car,little,unemployed,bad
+18,Young,705,12,furniture,quite rich,4-7yr,good
+42,Middle-aged+,4045,60,education,rich,<1yr,good
+28,Young,2207,24,other,moderate,1-4yr,good
+68,Middle-aged+,14130,60,other,quite rich,1-4yr,bad
+39,Middle-aged+,4054,12,furniture,moderate,>7yr,good
+49,Middle-aged+,500,24,education,moderate,4-7yr,bad
+38,Middle-aged+,2723,24,education,little,unemployed,bad
+57,Middle-aged+,10259,48,other,little,>7yr,bad
+41,Middle-aged+,1044,36,car,little,1-4yr,good
+20,Young,3630,48,other,moderate,<1yr,bad
+18,Young,8133,6,furniture,rich,unemployed,good
+40,Middle-aged+,4716,24,other,little,4-7yr,good
+25,Young,500,24,car,rich,1-4yr,good
+66,Middle-aged+,10222,48,car,rich,4-7yr,good
+53,Middle-aged+,9627,36,repairs,rich,1-4yr,good
+40,Middle-aged+,7533,36,repairs,little,<1yr,bad
+53,Middle-aged+,6092,12,car,moderate,4-7yr,good
+28,Young,1165,12,furniture,quite rich,<1yr,bad
+18,Young,3989,24,furniture,little,1-4yr,bad
+28,Young,3622,48,education,moderate,1-4yr,bad
+42,Middle-aged+,1442,12,furniture,moderate,>7yr,good
+18,Young,5313,36,car,little,1-4yr,good
+36,Middle-aged+,1659,12,repairs,moderate,4-7yr,good
+47,Middle-aged+,1748,48,repairs,quite rich,4-7yr,good
+21,Young,1183,36,other,moderate,unemployed,bad
+40,Middle-aged+,4415,36,car,rich,4-7yr,good
+47,Middle-aged+,2199,12,car,little,1-4yr,good
+35,Middle-aged+,1735,36,furniture,little,>7yr,good
+68,Middle-aged+,12701,36,car,little,4-7yr,good
+24,Young,12907,6,car,quite rich,4-7yr,bad
+42,Middle-aged+,1198,36,education,quite rich,>7yr,good
+35,Middle-aged+,2823,24,other,little,unemployed,good
+42,Middle-aged+,500,24,car,rich,4-7yr,good
+32,Middle-aged+,7952,12,car,little,4-7yr,good
+49,Middle-aged+,3253,12,other,little,>7yr,good
+48,Middle-aged+,6056,24,car,little,<1yr,bad
+18,Young,4300,36,furniture,little,<1yr,bad
+25,Young,4110,12,education,little,4-7yr,good
+22,Young,6708,48,repairs,quite rich,4-7yr,good
+41,Middle-aged+,646,24,furniture,rich,4-7yr,good
+42,Middle-aged+,500,24,repairs,moderate,4-7yr,good
+53,Middle-aged+,4128,48,other,little,4-7yr,good
+52,Middle-aged+,3851,24,car,quite rich,4-7yr,good
+46,Middle-aged+,3961,24,other,rich,1-4yr,bad
+42,Middle-aged+,500,24,other,quite rich,1-4yr,bad
+44,Middle-aged+,1729,12,car,little,1-4yr,bad
+56,Middle-aged+,3366,24,car,little,unemployed,good
+19,Young,1044,48,other,little,<1yr,bad
+30,Middle-aged+,9536,6,car,moderate,>7yr,good
+18,Young,8090,24,furniture,moderate,1-4yr,bad
+75,Middle-aged+,1371,6,repairs,moderate,<1yr,good
+43,Middle-aged+,2402,24,car,quite rich,1-4yr,good
+30,Middle-aged+,11548,12,car,little,unemployed,bad
+18,Young,1085,24,education,quite rich,4-7yr,bad
+21,Young,4307,48,other,moderate,>7yr,bad
+31,Middle-aged+,4297,12,repairs,moderate,1-4yr,good
+57,Middle-aged+,5457,36,furniture,little,>7yr,good
+59,Middle-aged+,3813,12,car,little,4-7yr,good
+55,Middle-aged+,500,48,furniture,moderate,1-4yr,good
+35,Middle-aged+,1327,24,other,quite rich,1-4yr,good
+24,Young,17959,12,car,little,>7yr,good
+63,Middle-aged+,1173,24,furniture,little,>7yr,bad
+47,Middle-aged+,1298,24,education,rich,>7yr,good
+37,Middle-aged+,2556,36,furniture,little,>7yr,good
+33,Middle-aged+,582,6,education,moderate,1-4yr,good
+50,Middle-aged+,3542,48,car,little,>7yr,good
+26,Young,1457,24,repairs,moderate,<1yr,bad
+28,Young,2211,24,car,little,1-4yr,bad
+32,Middle-aged+,650,12,car,little,>7yr,good
+59,Middle-aged+,500,36,repairs,little,4-7yr,good
+38,Middle-aged+,500,36,furniture,moderate,4-7yr,good
+48,Middle-aged+,690,24,car,rich,1-4yr,bad
+61,Middle-aged+,3413,12,other,rich,4-7yr,good
+30,Middle-aged+,500,24,car,rich,4-7yr,good
+25,Young,2026,48,other,little,1-4yr,good
+18,Young,500,12,repairs,little,1-4yr,bad
+18,Young,7466,24,car,quite rich,4-7yr,good
+52,Middle-aged+,2917,24,education,quite rich,4-7yr,good
+44,Middle-aged+,5455,12,car,little,>7yr,good
+60,Middle-aged+,3938,48,furniture,moderate,1-4yr,good
+29,Young,2523,12,repairs,moderate,4-7yr,good
+18,Young,2322,36,car,little,4-7yr,bad
+23,Young,1993,36,furniture,quite rich,1-4yr,bad
+49,Middle-aged+,4493,48,furniture,rich,<1yr,good
+28,Young,1587,6,car,quite rich,1-4yr,good
+26,Young,1604,24,other,rich,<1yr,good
+22,Young,7936,36,car,quite rich,1-4yr,good
+42,Middle-aged+,1945,36,furniture,quite rich,1-4yr,good
+49,Middle-aged+,3248,6,furniture,moderate,4-7yr,good
+37,Middle-aged+,2006,12,repairs,little,>7yr,good
+19,Young,4564,12,furniture,moderate,4-7yr,bad
+22,Young,1762,12,car,moderate,<1yr,good
+55,Middle-aged+,3364,12,repairs,moderate,1-4yr,good
+42,Middle-aged+,1565,24,car,little,>7yr,bad
+32,Middle-aged+,500,48,other,rich,4-7yr,good
+19,Young,8215,48,repairs,moderate,4-7yr,bad
+40,Middle-aged+,3142,12,car,quite rich,1-4yr,good
+61,Middle-aged+,7064,36,other,rich,>7yr,bad
+27,Young,3747,12,education,rich,1-4yr,good
+33,Middle-aged+,3387,24,repairs,little,unemployed,good
+38,Middle-aged+,500,24,car,moderate,1-4yr,good
+20,Young,1914,12,other,little,1-4yr,bad
+55,Middle-aged+,6449,36,furniture,moderate,1-4yr,good
+53,Middle-aged+,1159,48,education,moderate,4-7yr,good
+18,Young,12832,6,education,rich,1-4yr,good
+44,Middle-aged+,6342,24,other,rich,<1yr,good
+18,Young,994,24,other,quite rich,<1yr,bad
+41,Middle-aged+,12110,36,education,little,unemployed,bad
+54,Middle-aged+,752,36,education,quite rich,4-7yr,good
+44,Middle-aged+,2105,48,furniture,moderate,1-4yr,good
+33,Middle-aged+,1490,48,furniture,rich,1-4yr,good
+56,Middle-aged+,4232,24,repairs,quite rich,unemployed,good
+34,Middle-aged+,7021,24,education,rich,<1yr,good
+19,Young,1051,24,furniture,moderate,<1yr,good
+38,Middle-aged+,2753,24,education,little,1-4yr,good
+27,Young,4440,24,car,quite rich,4-7yr,bad
+31,Middle-aged+,3971,12,education,moderate,1-4yr,bad
+75,Middle-aged+,1121,36,education,quite rich,4-7yr,good
+36,Middle-aged+,500,36,furniture,quite rich,>7yr,good
+18,Young,3450,24,repairs,moderate,1-4yr,bad
+40,Middle-aged+,500,24,other,quite rich,1-4yr,good
+21,Young,1599,6,other,moderate,1-4yr,bad
+67,Middle-aged+,2342,60,education,quite rich,1-4yr,good
+18,Young,7162,36,car,little,>7yr,bad
+43,Middle-aged+,1158,6,car,quite rich,unemployed,bad
+47,Middle-aged+,5190,12,other,moderate,<1yr,good
+45,Middle-aged+,6170,36,repairs,little,<1yr,good
+38,Middle-aged+,5028,36,car,quite rich,4-7yr,good
+18,Young,1866,36,furniture,moderate,<1yr,bad
+40,Middle-aged+,8635,24,furniture,rich,4-7yr,good
+39,Middle-aged+,5667,36,furniture,little,1-4yr,good
+62,Middle-aged+,6577,24,education,rich,1-4yr,good
+56,Middle-aged+,4611,24,car,moderate,<1yr,good
+44,Middle-aged+,1229,36,education,rich,>7yr,good
+54,Middle-aged+,4953,24,repairs,little,1-4yr,good
+18,Young,500,48,car,little,1-4yr,bad
+31,Middle-aged+,1059,36,furniture,quite rich,1-4yr,good
+58,Middle-aged+,2361,48,other,little,4-7yr,good
+58,Middle-aged+,2449,36,car,quite rich,<1yr,bad
+51,Middle-aged+,2121,48,car,moderate,<1yr,good
+30,Middle-aged+,1113,12,furniture,quite rich,4-7yr,good
+36,Middle-aged+,6958,12,repairs,little,4-7yr,good
+30,Middle-aged+,500,60,repairs,quite rich,<1yr,good
+18,Young,1291,24,repairs,moderate,>7yr,bad
+40,Middle-aged+,1518,6,car,moderate,4-7yr,good
+40,Middle-aged+,3807,60,furniture,rich,1-4yr,good
+41,Middle-aged+,6764,6,repairs,moderate,1-4yr,good
+33,Middle-aged+,1857,24,other,little,>7yr,good
+31,Middle-aged+,870,60,other,rich,1-4yr,good
+26,Young,1970,24,car,quite rich,4-7yr,good
+28,Young,1749,48,furniture,moderate,1-4yr,bad
+28,Young,1472,24,other,rich,4-7yr,good
+20,Young,1184,24,repairs,rich,4-7yr,good
+50,Middle-aged+,500,36,furniture,little,1-4yr,good
+58,Middle-aged+,6416,60,other,moderate,1-4yr,bad
+51,Middle-aged+,10553,48,car,little,4-7yr,bad
+38,Middle-aged+,970,24,furniture,little,4-7yr,bad
+18,Young,906,36,repairs,little,>7yr,bad
+30,Middle-aged+,1177,24,education,moderate,1-4yr,good
+37,Middle-aged+,1831,36,car,quite rich,1-4yr,bad
+32,Middle-aged+,11216,60,other,moderate,<1yr,good
+34,Middle-aged+,2863,6,car,little,4-7yr,bad
+30,Middle-aged+,2386,60,other,rich,4-7yr,good
+42,Middle-aged+,500,24,car,little,unemployed,bad
+47,Middle-aged+,3480,36,other,rich,>7yr,good
+29,Young,1916,6,education,moderate,4-7yr,bad
+65,Middle-aged+,2567,24,repairs,quite rich,>7yr,good
+51,Middle-aged+,2158,12,repairs,little,4-7yr,good
+47,Middle-aged+,16233,36,car,little,4-7yr,bad
+48,Middle-aged+,880,24,furniture,moderate,1-4yr,good
+23,Young,11357,24,other,moderate,4-7yr,good
+45,Middle-aged+,875,36,education,rich,<1yr,good
+35,Middle-aged+,13689,24,education,little,4-7yr,bad
+34,Middle-aged+,1044,36,education,moderate,4-7yr,bad
+44,Middle-aged+,500,24,education,little,1-4yr,good
+37,Middle-aged+,1810,12,car,moderate,1-4yr,good
+59,Middle-aged+,7991,36,other,quite rich,4-7yr,good
+61,Middle-aged+,1936,12,education,quite rich,unemployed,good
+58,Middle-aged+,10440,6,furniture,moderate,1-4yr,good
+32,Middle-aged+,994,60,other,moderate,<1yr,bad
+56,Middle-aged+,1089,12,furniture,quite rich,>7yr,good
+39,Middle-aged+,11018,60,car,moderate,<1yr,bad
+49,Middle-aged+,4565,24,other,moderate,4-7yr,good
+32,Middle-aged+,2167,36,education,little,>7yr,good
+63,Middle-aged+,500,24,other,little,>7yr,good
+52,Middle-aged+,4698,36,car,little,>7yr,bad
+30,Middle-aged+,1101,12,other,rich,<1yr,good
+55,Middle-aged+,9821,60,car,rich,>7yr,good
+31,Middle-aged+,625,12,furniture,rich,4-7yr,bad
+31,Middle-aged+,500,12,furniture,quite rich,1-4yr,good
+49,Middle-aged+,9602,24,furniture,little,1-4yr,good
+23,Young,1118,24,education,rich,<1yr,bad
+29,Young,873,36,repairs,rich,>7yr,good
+38,Middle-aged+,1096,24,repairs,quite rich,unemployed,bad
+37,Middle-aged+,3773,48,other,rich,1-4yr,good
+63,Middle-aged+,2769,24,car,little,unemployed,bad
+37,Middle-aged+,612,36,repairs,moderate,4-7yr,good
+54,Middle-aged+,10305,12,other,little,1-4yr,good
+24,Young,6407,36,furniture,quite rich,1-4yr,bad
+34,Middle-aged+,7985,48,car,little,1-4yr,bad
+55,Middle-aged+,4410,12,repairs,little,1-4yr,good
+18,Young,2981,24,furniture,moderate,1-4yr,good
+45,Middle-aged+,2093,6,car,moderate,>7yr,good
+27,Young,11752,6,repairs,little,1-4yr,good
+19,Young,4881,24,car,quite rich,4-7yr,bad
+18,Young,2084,48,car,little,4-7yr,bad
+40,Middle-aged+,11506,24,other,little,>7yr,good
+18,Young,2696,36,furniture,quite rich,<1yr,good
+32,Middle-aged+,1636,48,repairs,moderate,1-4yr,good
+58,Middle-aged+,557,36,car,little,4-7yr,bad
+51,Middle-aged+,3282,36,repairs,moderate,4-7yr,good
+41,Middle-aged+,5801,60,other,quite rich,4-7yr,good
+35,Middle-aged+,1425,24,education,rich,1-4yr,good
+37,Middle-aged+,3854,24,furniture,little,>7yr,good
+51,Middle-aged+,4813,36,car,rich,<1yr,good
+25,Young,18640,36,other,moderate,>7yr,good
+67,Middle-aged+,1455,24,car,quite rich,4-7yr,good
+44,Middle-aged+,6274,48,car,quite rich,>7yr,good
+31,Middle-aged+,500,12,other,quite rich,4-7yr,good
+24,Young,756,24,other,moderate,1-4yr,bad
+51,Middle-aged+,744,24,furniture,little,1-4yr,good
+39,Middle-aged+,742,48,furniture,moderate,>7yr,good
+31,Middle-aged+,614,24,furniture,moderate,1-4yr,good
+18,Young,5962,48,furniture,moderate,<1yr,bad
+61,Middle-aged+,4258,24,education,rich,1-4yr,good
+55,Middle-aged+,1433,12,car,quite rich,1-4yr,good
+43,Middle-aged+,882,12,other,moderate,4-7yr,good
+20,Young,11048,48,education,quite rich,1-4yr,bad
+45,Middle-aged+,1150,48,furniture,moderate,unemployed,bad
+47,Middle-aged+,2193,24,furniture,little,4-7yr,good
+32,Middle-aged+,2688,12,repairs,moderate,1-4yr,good
+46,Middle-aged+,3379,60,education,little,unemployed,bad
+43,Middle-aged+,2433,12,furniture,quite rich,1-4yr,good
+49,Middle-aged+,1659,60,repairs,moderate,<1yr,good
+48,Middle-aged+,7671,24,furniture,quite rich,unemployed,good
+18,Young,7486,24,other,quite rich,1-4yr,good
+28,Young,12502,24,furniture,little,4-7yr,bad
+21,Young,500,48,furniture,moderate,>7yr,good
+49,Middle-aged+,500,12,car,quite rich,unemployed,good
+22,Young,10680,24,other,little,<1yr,bad
+26,Young,6803,60,furniture,moderate,>7yr,bad
+34,Middle-aged+,1834,6,education,moderate,4-7yr,good
+25,Young,500,24,other,moderate,1-4yr,good
+29,Young,559,60,other,rich,1-4yr,good
+61,Middle-aged+,1814,48,other,little,<1yr,bad
+25,Young,3759,36,other,moderate,4-7yr,bad
+42,Middle-aged+,6400,6,other,little,4-7yr,good
+33,Middle-aged+,13779,24,repairs,moderate,unemployed,good
+62,Middle-aged+,1737,12,education,rich,4-7yr,good
+59,Middle-aged+,13004,24,furniture,moderate,>7yr,good
+53,Middle-aged+,9960,12,other,little,1-4yr,good
+24,Young,4610,24,education,moderate,1-4yr,good
+32,Middle-aged+,1508,60,other,quite rich,4-7yr,good
+31,Middle-aged+,970,6,education,little,1-4yr,good
+18,Young,2851,48,car,little,<1yr,bad
+49,Middle-aged+,9652,36,education,little,>7yr,bad
+40,Middle-aged+,899,12,other,moderate,1-4yr,good
+48,Middle-aged+,16098,24,repairs,little,4-7yr,good
+45,Middle-aged+,3679,48,education,little,1-4yr,bad
+31,Middle-aged+,2490,24,car,moderate,4-7yr,good
+18,Young,1219,24,furniture,quite rich,1-4yr,good
+31,Middle-aged+,500,36,repairs,little,unemployed,bad
+37,Middle-aged+,1090,60,car,rich,4-7yr,bad
+22,Young,1768,12,education,moderate,4-7yr,good
+22,Young,1363,24,other,quite rich,1-4yr,good
+65,Middle-aged+,2975,6,car,rich,4-7yr,good
+58,Middle-aged+,3857,6,furniture,moderate,<1yr,good
+38,Middle-aged+,1743,24,furniture,little,>7yr,good
+71,Middle-aged+,500,12,repairs,little,<1yr,bad
+52,Middle-aged+,3073,24,education,quite rich,4-7yr,bad
+33,Middle-aged+,500,24,other,little,>7yr,bad
+34,Middle-aged+,10975,12,education,little,1-4yr,good
+38,Middle-aged+,3426,60,repairs,quite rich,1-4yr,good
+37,Middle-aged+,5436,36,repairs,little,>7yr,bad
+64,Middle-aged+,2043,48,car,little,<1yr,good
+34,Middle-aged+,6046,24,furniture,little,4-7yr,bad
+38,Middle-aged+,1616,36,repairs,rich,1-4yr,good
+23,Young,500,60,repairs,rich,<1yr,good
+46,Middle-aged+,1354,60,repairs,moderate,4-7yr,bad
+40,Middle-aged+,1566,36,repairs,rich,1-4yr,good
+51,Middle-aged+,500,24,furniture,little,4-7yr,good
+18,Young,642,12,furniture,moderate,>7yr,good
+22,Young,500,24,education,moderate,4-7yr,bad
+32,Middle-aged+,1257,48,car,moderate,1-4yr,good
+18,Young,1638,48,car,moderate,>7yr,bad
+18,Young,960,24,other,little,unemployed,bad
+20,Young,2790,24,repairs,moderate,unemployed,bad
+53,Middle-aged+,12080,24,car,moderate,4-7yr,good
+38,Middle-aged+,1010,36,furniture,little,unemployed,bad
+61,Middle-aged+,5181,60,repairs,moderate,4-7yr,bad
+19,Young,4101,36,education,little,<1yr,bad
+49,Middle-aged+,966,36,other,rich,1-4yr,good
+39,Middle-aged+,776,36,car,little,>7yr,good
+32,Middle-aged+,1233,24,other,rich,1-4yr,good
+18,Young,500,48,car,rich,>7yr,bad
+30,Middle-aged+,870,36,car,moderate,unemployed,good
+42,Middle-aged+,10592,24,furniture,little,<1yr,bad
+45,Middle-aged+,3192,36,other,little,unemployed,good
+57,Middle-aged+,500,12,furniture,moderate,4-7yr,good
+25,Young,15644,24,education,little,>7yr,good
+46,Middle-aged+,5344,6,repairs,little,4-7yr,good
+47,Middle-aged+,1278,24,education,moderate,1-4yr,good
+41,Middle-aged+,600,36,furniture,moderate,4-7yr,bad
+26,Young,7500,12,furniture,moderate,1-4yr,bad
+44,Middle-aged+,2865,12,repairs,little,1-4yr,good
+41,Middle-aged+,5432,36,other,moderate,1-4yr,good
+27,Young,2063,60,car,moderate,4-7yr,bad
+20,Young,3578,24,car,little,4-7yr,good
+43,Middle-aged+,2570,60,education,moderate,1-4yr,bad
+33,Middle-aged+,500,36,repairs,little,1-4yr,bad
+51,Middle-aged+,500,36,education,moderate,4-7yr,bad
+34,Middle-aged+,4148,12,other,moderate,1-4yr,bad
+24,Young,3149,24,furniture,rich,<1yr,good
+28,Young,3724,60,car,rich,4-7yr,good
+55,Middle-aged+,3902,6,other,moderate,1-4yr,good
+26,Young,1774,36,car,rich,<1yr,bad
+18,Young,5517,12,other,moderate,<1yr,bad
+29,Young,6927,36,repairs,quite rich,4-7yr,good
+37,Middle-aged+,1169,48,car,little,4-7yr,bad
+43,Middle-aged+,2228,60,repairs,rich,4-7yr,good
+46,Middle-aged+,2346,48,car,quite rich,>7yr,bad
+26,Young,5704,12,other,little,1-4yr,bad
+39,Middle-aged+,3205,36,other,quite rich,<1yr,good
+55,Middle-aged+,3231,24,car,moderate,4-7yr,good
+45,Middle-aged+,2077,12,other,moderate,1-4yr,good
+20,Young,7404,12,other,moderate,1-4yr,bad
+18,Young,500,36,furniture,quite rich,1-4yr,good
+27,Young,500,24,other,little,<1yr,bad
+23,Young,10503,12,car,little,4-7yr,bad
+54,Middle-aged+,8174,36,furniture,quite rich,1-4yr,good
+49,Middle-aged+,14666,24,other,little,>7yr,good
+35,Middle-aged+,1516,24,education,quite rich,>7yr,good
+18,Young,7431,60,car,little,4-7yr,bad
+28,Young,9063,12,car,quite rich,<1yr,bad
+34,Middle-aged+,3117,24,furniture,little,unemployed,good
+41,Middle-aged+,3900,6,repairs,quite rich,4-7yr,good
+56,Middle-aged+,3608,24,other,rich,4-7yr,good
+29,Young,1095,12,other,little,4-7yr,bad
+33,Middle-aged+,1676,6,furniture,quite rich,<1yr,good
+31,Middle-aged+,5282,60,car,quite rich,<1yr,good
+56,Middle-aged+,662,24,other,moderate,4-7yr,good
+41,Middle-aged+,3973,24,repairs,quite rich,<1yr,good
+35,Middle-aged+,1324,24,car,little,1-4yr,good
+26,Young,5582,24,repairs,quite rich,4-7yr,bad
+31,Middle-aged+,6608,36,furniture,little,unemployed,bad
+52,Middle-aged+,905,36,repairs,moderate,>7yr,good
+52,Middle-aged+,5032,48,furniture,little,>7yr,good
+43,Middle-aged+,500,24,car,little,1-4yr,good
+49,Middle-aged+,7353,36,furniture,rich,<1yr,good
+18,Young,2163,12,car,moderate,>7yr,good
+47,Middle-aged+,1392,12,education,quite rich,1-4yr,good
+37,Middle-aged+,3998,24,car,quite rich,4-7yr,good
+24,Young,996,12,other,little,4-7yr,good
+32,Middle-aged+,1888,24,repairs,rich,1-4yr,bad
+52,Middle-aged+,2045,48,car,little,>7yr,bad
+40,Middle-aged+,722,12,furniture,little,1-4yr,bad
+42,Middle-aged+,500,36,repairs,little,4-7yr,good
+55,Middle-aged+,9375,36,car,little,1-4yr,bad
+31,Middle-aged+,500,12,furniture,little,4-7yr,good
+31,Middle-aged+,1574,12,car,moderate,4-7yr,good
+20,Young,4171,60,car,rich,1-4yr,good
+18,Young,500,36,car,little,>7yr,good
+60,Middle-aged+,8374,24,furniture,little,unemployed,good
+39,Middle-aged+,2763,6,car,little,1-4yr,bad
+40,Middle-aged+,4497,24,car,little,4-7yr,bad
+42,Middle-aged+,700,36,furniture,moderate,<1yr,good
+38,Middle-aged+,500,24,car,moderate,>7yr,good
+48,Middle-aged+,849,36,other,quite rich,>7yr,good
+46,Middle-aged+,500,36,education,rich,<1yr,good
+38,Middle-aged+,4281,24,other,moderate,<1yr,good
+38,Middle-aged+,5353,60,education,rich,<1yr,bad
+36,Middle-aged+,12975,12,education,quite rich,4-7yr,good
+32,Middle-aged+,10302,24,repairs,moderate,1-4yr,good
+32,Middle-aged+,5614,60,car,quite rich,unemployed,bad
+27,Young,1005,24,car,quite rich,>7yr,good
+34,Middle-aged+,551,36,other,moderate,4-7yr,good
+61,Middle-aged+,13345,24,other,moderate,1-4yr,good
+42,Middle-aged+,2484,24,education,quite rich,1-4yr,good
+33,Middle-aged+,4851,48,education,little,>7yr,good
+50,Middle-aged+,4146,24,other,quite rich,1-4yr,good
+46,Middle-aged+,2211,24,car,moderate,>7yr,bad
+39,Middle-aged+,932,36,furniture,little,<1yr,good
+41,Middle-aged+,4609,24,repairs,moderate,1-4yr,good
+67,Middle-aged+,7121,48,furniture,moderate,1-4yr,good
+73,Middle-aged+,4808,6,education,rich,4-7yr,good
+40,Middle-aged+,2752,36,repairs,little,4-7yr,good
+36,Middle-aged+,3805,36,repairs,rich,>7yr,good
+47,Middle-aged+,2595,12,furniture,moderate,unemployed,bad
+25,Young,3081,24,repairs,quite rich,1-4yr,bad
+42,Middle-aged+,4401,24,furniture,moderate,4-7yr,good
+59,Middle-aged+,5750,36,repairs,quite rich,<1yr,bad
+61,Middle-aged+,8431,24,furniture,little,>7yr,good
+33,Middle-aged+,5555,36,education,rich,>7yr,good
+54,Middle-aged+,771,6,car,moderate,<1yr,good
+39,Middle-aged+,1906,24,furniture,quite rich,1-4yr,good
+36,Middle-aged+,2035,24,repairs,rich,<1yr,good
+18,Young,3818,24,education,moderate,4-7yr,bad
+34,Middle-aged+,2360,48,furniture,moderate,<1yr,bad
+41,Middle-aged+,3150,36,car,moderate,unemployed,good
+31,Middle-aged+,5029,24,repairs,moderate,4-7yr,good
+37,Middle-aged+,6153,24,car,rich,1-4yr,bad
+59,Middle-aged+,2494,24,car,moderate,1-4yr,bad
+62,Middle-aged+,2151,24,repairs,quite rich,<1yr,good
+25,Young,5335,60,car,little,<1yr,bad
+26,Young,507,12,furniture,little,1-4yr,bad
+25,Young,2637,48,repairs,moderate,unemployed,bad
+33,Middle-aged+,4118,24,other,quite rich,unemployed,good
+24,Young,4309,36,education,moderate,1-4yr,bad
+18,Young,4188,12,furniture,little,<1yr,good
+18,Young,500,24,furniture,quite rich,4-7yr,good
+23,Young,1131,48,car,quite rich,unemployed,bad
+47,Middle-aged+,1502,24,furniture,little,>7yr,good
+53,Middle-aged+,2883,12,furniture,moderate,>7yr,good
+70,Middle-aged+,3465,6,education,little,1-4yr,good
+39,Middle-aged+,1926,36,repairs,quite rich,<1yr,good
+36,Middle-aged+,1165,24,repairs,moderate,4-7yr,good
+44,Middle-aged+,4246,48,education,moderate,>7yr,bad
+19,Young,1315,24,repairs,moderate,>7yr,good
+45,Middle-aged+,2362,36,repairs,little,4-7yr,bad
+51,Middle-aged+,2055,24,other,little,4-7yr,good
+38,Middle-aged+,2375,24,other,rich,1-4yr,good
+36,Middle-aged+,6326,48,car,quite rich,>7yr,good
+48,Middle-aged+,2035,6,other,little,1-4yr,good
+40,Middle-aged+,2382,12,car,moderate,<1yr,good
+32,Middle-aged+,4095,6,furniture,moderate,1-4yr,good
+47,Middle-aged+,500,48,other,moderate,>7yr,good
+52,Middle-aged+,2596,48,education,moderate,1-4yr,bad
+37,Middle-aged+,6161,6,car,little,>7yr,good
+35,Middle-aged+,6326,60,car,quite rich,>7yr,good
+28,Young,17829,36,car,little,<1yr,good
+32,Middle-aged+,500,36,other,moderate,<1yr,good
+44,Middle-aged+,554,24,car,little,>7yr,good
+18,Young,3687,12,repairs,rich,1-4yr,good
+36,Middle-aged+,774,36,car,quite rich,unemployed,good
+26,Young,828,12,car,moderate,1-4yr,good
+39,Middle-aged+,2653,24,furniture,little,1-4yr,bad
+61,Middle-aged+,5705,24,other,rich,4-7yr,good
+42,Middle-aged+,3485,24,other,little,<1yr,good
+50,Middle-aged+,500,12,car,rich,1-4yr,good
+35,Middle-aged+,597,12,car,moderate,unemployed,good
+18,Young,500,36,furniture,little,1-4yr,good
+45,Middle-aged+,3741,24,other,rich,4-7yr,good
+20,Young,2283,48,education,moderate,4-7yr,good
+51,Middle-aged+,1647,48,repairs,little,4-7yr,bad
+25,Young,1471,36,car,moderate,4-7yr,bad
+21,Young,3883,6,other,moderate,4-7yr,good
+37,Middle-aged+,500,48,other,little,1-4yr,bad
+27,Young,800,60,education,rich,<1yr,good
+39,Middle-aged+,710,12,repairs,little,1-4yr,good
+47,Middle-aged+,3780,24,education,moderate,4-7yr,good
+55,Middle-aged+,500,12,repairs,rich,>7yr,good
+33,Middle-aged+,1842,6,car,little,4-7yr,good
+30,Middle-aged+,9426,12,education,rich,1-4yr,good
+43,Middle-aged+,7203,24,car,quite rich,1-4yr,good
+25,Young,2028,24,car,rich,1-4yr,good
+39,Middle-aged+,2271,12,other,moderate,4-7yr,good
+36,Middle-aged+,7609,6,car,rich,4-7yr,bad
+47,Middle-aged+,3887,12,repairs,quite rich,<1yr,good
+51,Middle-aged+,500,6,furniture,moderate,1-4yr,bad
+28,Young,7202,24,car,quite rich,<1yr,bad
+31,Middle-aged+,827,24,car,quite rich,unemployed,good
+34,Middle-aged+,1308,24,furniture,quite rich,>7yr,bad
+65,Middle-aged+,2328,36,car,rich,4-7yr,good
+28,Young,500,48,other,moderate,>7yr,bad
+50,Middle-aged+,4493,12,other,little,<1yr,good
+45,Middle-aged+,8334,12,education,moderate,1-4yr,good
+58,Middle-aged+,2758,12,repairs,little,<1yr,bad
+60,Middle-aged+,9833,6,car,little,>7yr,good
+41,Middle-aged+,778,6,education,little,<1yr,bad
+36,Middle-aged+,2862,36,other,little,1-4yr,bad
+62,Middle-aged+,6320,12,repairs,quite rich,1-4yr,good
+22,Young,1270,24,other,little,1-4yr,bad
+52,Middle-aged+,2607,12,car,rich,unemployed,good
+35,Middle-aged+,584,24,car,little,>7yr,good
+50,Middle-aged+,3733,36,repairs,little,4-7yr,good
+34,Middle-aged+,2617,36,repairs,moderate,>7yr,good
+27,Young,3628,12,repairs,little,4-7yr,bad
+67,Middle-aged+,500,48,car,rich,>7yr,good
+28,Young,21796,6,car,quite rich,1-4yr,bad
+64,Middle-aged+,2548,24,education,rich,unemployed,good
+36,Middle-aged+,500,12,car,moderate,1-4yr,good
+49,Middle-aged+,5256,24,furniture,little,<1yr,bad
+52,Middle-aged+,2960,12,car,little,1-4yr,good
+36,Middle-aged+,500,24,other,quite rich,unemployed,good
+44,Middle-aged+,3723,36,furniture,rich,1-4yr,good
+27,Young,9636,60,car,little,<1yr,bad
+51,Middle-aged+,3634,6,repairs,rich,<1yr,good
+41,Middle-aged+,7116,12,car,moderate,4-7yr,good
+26,Young,3422,24,other,quite rich,4-7yr,bad
+35,Middle-aged+,1718,24,car,little,<1yr,bad
+53,Middle-aged+,2788,24,furniture,little,1-4yr,bad
+18,Young,25130,12,car,quite rich,>7yr,bad
+51,Middle-aged+,674,24,repairs,quite rich,1-4yr,good
+20,Young,8104,48,repairs,moderate,<1yr,bad
+43,Middle-aged+,500,24,other,quite rich,>7yr,good
+33,Middle-aged+,5859,6,repairs,rich,1-4yr,good
+48,Middle-aged+,5539,48,car,rich,1-4yr,bad
+36,Middle-aged+,500,36,repairs,quite rich,<1yr,bad
+44,Middle-aged+,4561,12,furniture,little,1-4yr,bad
+39,Middle-aged+,1679,48,other,little,<1yr,good
+18,Young,4103,60,repairs,little,1-4yr,bad
+29,Young,1736,24,repairs,moderate,<1yr,bad
+45,Middle-aged+,7998,48,car,little,1-4yr,good
+22,Young,5266,60,repairs,little,>7yr,bad
+18,Young,500,12,repairs,little,1-4yr,good
+57,Middle-aged+,1672,36,other,quite rich,>7yr,good
+48,Middle-aged+,500,24,furniture,little,1-4yr,bad
+40,Middle-aged+,516,60,car,little,>7yr,good
+51,Middle-aged+,8610,48,other,moderate,<1yr,good
+40,Middle-aged+,3806,12,education,quite rich,>7yr,good
+30,Middle-aged+,5306,24,other,little,1-4yr,good
+19,Young,1195,12,car,little,1-4yr,good
+31,Middle-aged+,1429,6,other,little,unemployed,bad
+32,Middle-aged+,500,36,furniture,little,>7yr,bad
+33,Middle-aged+,623,48,repairs,quite rich,>7yr,good
+51,Middle-aged+,1237,36,furniture,moderate,1-4yr,good
+40,Middle-aged+,7080,36,education,moderate,<1yr,good
+39,Middle-aged+,2303,24,education,little,1-4yr,good
+44,Middle-aged+,2915,24,car,quite rich,1-4yr,good
+46,Middle-aged+,500,24,other,moderate,1-4yr,good
+49,Middle-aged+,500,60,furniture,rich,1-4yr,good
+40,Middle-aged+,500,12,other,little,<1yr,good
+42,Middle-aged+,13787,24,repairs,rich,1-4yr,bad
+55,Middle-aged+,3952,36,education,little,4-7yr,good
+36,Middle-aged+,5692,36,furniture,quite rich,1-4yr,good
+47,Middle-aged+,6393,48,repairs,moderate,4-7yr,good
+30,Middle-aged+,14274,36,other,rich,>7yr,good
+55,Middle-aged+,16902,24,furniture,little,<1yr,bad
+29,Young,3179,24,car,little,4-7yr,bad
+62,Middle-aged+,6179,36,car,little,4-7yr,bad
+29,Young,2140,48,repairs,little,1-4yr,bad
+23,Young,10935,48,car,moderate,1-4yr,good
+57,Middle-aged+,3914,12,education,little,>7yr,good
+42,Middle-aged+,770,36,education,moderate,1-4yr,good
+55,Middle-aged+,6179,24,car,moderate,4-7yr,good
+39,Middle-aged+,8036,36,education,quite rich,<1yr,good
+18,Young,1017,60,repairs,quite rich,unemployed,bad
+54,Middle-aged+,926,48,car,quite rich,<1yr,good
+57,Middle-aged+,500,36,education,quite rich,4-7yr,good
+45,Middle-aged+,3305,12,other,moderate,1-4yr,good
+43,Middle-aged+,3419,24,furniture,moderate,4-7yr,good
+27,Young,5013,36,furniture,little,1-4yr,bad
+22,Young,1409,36,furniture,little,1-4yr,bad
+25,Young,874,24,education,moderate,1-4yr,bad
+19,Young,2361,12,furniture,little,4-7yr,bad
+49,Middle-aged+,701,48,other,moderate,4-7yr,good
+41,Middle-aged+,3657,12,repairs,rich,1-4yr,good
+45,Middle-aged+,4198,6,car,moderate,>7yr,good
+33,Middle-aged+,1711,36,other,quite rich,1-4yr,good
+38,Middle-aged+,500,6,other,moderate,1-4yr,good
+30,Middle-aged+,966,48,car,moderate,>7yr,good
+64,Middle-aged+,8962,12,education,little,4-7yr,good
+34,Middle-aged+,2150,12,education,quite rich,4-7yr,good
+26,Young,1394,60,repairs,little,<1yr,good
+50,Middle-aged+,1762,12,car,little,4-7yr,good
+31,Middle-aged+,4141,24,repairs,moderate,4-7yr,good
+23,Young,940,12,education,rich,4-7yr,good
+48,Middle-aged+,3158,12,car,little,4-7yr,good
+26,Young,1736,24,repairs,moderate,<1yr,bad
+47,Middle-aged+,12944,24,education,little,<1yr,good
+44,Middle-aged+,1556,24,education,moderate,4-7yr,good
+44,Middle-aged+,6664,6,furniture,quite rich,1-4yr,good
+62,Middle-aged+,3446,24,education,quite rich,<1yr,good
+42,Middle-aged+,4567,36,furniture,quite rich,1-4yr,good
+51,Middle-aged+,2900,48,other,rich,unemployed,good
+38,Middle-aged+,5357,36,furniture,quite rich,>7yr,good
+56,Middle-aged+,500,24,furniture,little,4-7yr,good
+40,Middle-aged+,4516,12,car,moderate,4-7yr,good
+23,Young,2917,12,education,little,4-7yr,bad
+18,Young,1473,60,repairs,little,4-7yr,good
+36,Middle-aged+,2394,48,repairs,little,4-7yr,bad
+39,Middle-aged+,500,36,car,moderate,>7yr,good
+57,Middle-aged+,2332,12,education,little,1-4yr,good
+31,Middle-aged+,2183,24,repairs,little,4-7yr,bad
+40,Middle-aged+,1638,60,repairs,little,4-7yr,good
+28,Young,8585,36,car,quite rich,4-7yr,bad
+67,Middle-aged+,3817,36,education,little,4-7yr,bad
+33,Middle-aged+,574,24,furniture,moderate,4-7yr,good
+36,Middle-aged+,9609,12,car,moderate,<1yr,good
+21,Young,1832,48,repairs,quite rich,<1yr,bad
+56,Middle-aged+,5650,12,car,quite rich,unemployed,good
+21,Young,4003,48,repairs,moderate,1-4yr,bad
+38,Middle-aged+,7787,60,other,little,>7yr,bad
+40,Middle-aged+,3055,48,other,moderate,1-4yr,good
+35,Middle-aged+,1603,36,education,quite rich,unemployed,good
+39,Middle-aged+,19243,60,other,rich,<1yr,good
+52,Middle-aged+,500,12,car,quite rich,unemployed,good
+57,Middle-aged+,500,12,education,rich,<1yr,good
+52,Middle-aged+,5871,36,other,little,1-4yr,good
+47,Middle-aged+,4072,36,other,moderate,4-7yr,good
+57,Middle-aged+,500,48,repairs,little,<1yr,bad
+39,Middle-aged+,5305,6,other,moderate,4-7yr,bad
+32,Middle-aged+,13494,12,repairs,little,1-4yr,bad
+54,Middle-aged+,2996,60,repairs,little,1-4yr,good
+21,Young,2981,24,furniture,little,unemployed,bad
+18,Young,1586,24,education,little,4-7yr,bad
+46,Middle-aged+,2462,12,furniture,moderate,4-7yr,good
+63,Middle-aged+,521,36,other,little,>7yr,bad
+28,Young,2659,24,repairs,rich,4-7yr,good
+38,Middle-aged+,2841,12,furniture,little,1-4yr,good
+20,Young,19606,24,repairs,moderate,4-7yr,bad
+38,Middle-aged+,4414,48,car,quite rich,4-7yr,good
+25,Young,18671,6,repairs,little,<1yr,bad
+48,Middle-aged+,2549,24,furniture,quite rich,1-4yr,good
+32,Middle-aged+,10457,48,car,rich,1-4yr,bad
+30,Middle-aged+,6652,36,repairs,moderate,<1yr,good
+65,Middle-aged+,3857,60,car,quite rich,>7yr,good
+30,Middle-aged+,1106,6,repairs,little,4-7yr,good
+23,Young,500,36,other,little,1-4yr,bad
+35,Middle-aged+,7905,6,furniture,quite rich,<1yr,bad
+50,Middle-aged+,2098,24,furniture,little,1-4yr,good
+69,Middle-aged+,3691,60,car,rich,<1yr,bad
+42,Middle-aged+,4904,36,education,rich,>7yr,good
+20,Young,11269,12,other,quite rich,1-4yr,good
+32,Middle-aged+,3958,48,furniture,rich,4-7yr,good
+33,Middle-aged+,6655,60,car,quite rich,<1yr,good
+64,Middle-aged+,1474,12,repairs,quite rich,1-4yr,bad
+45,Middle-aged+,883,36,repairs,rich,<1yr,good
+44,Middle-aged+,500,24,repairs,moderate,<1yr,good
+20,Young,500,36,other,little,1-4yr,bad
+57,Middle-aged+,4542,24,education,quite rich,1-4yr,good
+34,Middle-aged+,7151,48,furniture,little,4-7yr,good
+48,Middle-aged+,2406,6,car,moderate,4-7yr,good
+41,Middle-aged+,2138,24,car,rich,unemployed,good
+25,Young,1634,36,car,little,1-4yr,bad
+24,Young,6694,6,car,moderate,<1yr,good
+36,Middle-aged+,1129,60,education,little,1-4yr,bad
+45,Middle-aged+,973,12,car,little,1-4yr,bad
+57,Middle-aged+,2290,6,car,little,1-4yr,good
+40,Middle-aged+,500,36,other,little,4-7yr,bad
+31,Middle-aged+,1243,48,furniture,rich,<1yr,good
+28,Young,5018,24,education,rich,4-7yr,bad
+41,Middle-aged+,3733,36,other,little,1-4yr,bad
+37,Middle-aged+,8689,36,other,little,<1yr,bad
+39,Middle-aged+,500,12,car,moderate,1-4yr,bad
+46,Middle-aged+,5813,48,education,quite rich,1-4yr,good
+50,Middle-aged+,876,36,furniture,little,4-7yr,good
+45,Middle-aged+,12015,24,furniture,moderate,unemployed,good
+53,Middle-aged+,1297,24,other,quite rich,<1yr,good
+55,Middle-aged+,3321,24,furniture,quite rich,1-4yr,good
+26,Young,500,48,repairs,moderate,>7yr,bad
+29,Young,2618,12,education,quite rich,4-7yr,good
+31,Middle-aged+,2928,36,education,moderate,4-7yr,good
+26,Young,500,24,repairs,little,4-7yr,good
+45,Middle-aged+,500,24,car,little,>7yr,good
+48,Middle-aged+,2744,24,car,moderate,1-4yr,good
+32,Middle-aged+,500,36,education,moderate,1-4yr,good
+46,Middle-aged+,687,24,education,little,>7yr,bad
+57,Middle-aged+,930,24,education,moderate,unemployed,good
+27,Young,872,36,car,little,4-7yr,bad
+28,Young,4281,48,car,little,4-7yr,bad
+33,Middle-aged+,6153,24,car,moderate,1-4yr,bad
+29,Young,4124,36,repairs,moderate,1-4yr,bad
+28,Young,2522,12,furniture,moderate,4-7yr,bad
+29,Young,7992,12,repairs,little,<1yr,good
+59,Middle-aged+,4723,36,other,moderate,1-4yr,bad
+45,Middle-aged+,500,24,car,quite rich,>7yr,good
+52,Middle-aged+,500,36,education,moderate,<1yr,good
+46,Middle-aged+,500,24,other,moderate,1-4yr,bad
+26,Young,2698,48,car,little,1-4yr,bad
+21,Young,3037,36,car,rich,1-4yr,good
+18,Young,1736,36,car,little,<1yr,bad
+18,Young,1658,24,furniture,rich,>7yr,bad
+18,Young,8550,36,car,quite rich,unemployed,bad
+41,Middle-aged+,1268,24,repairs,little,1-4yr,bad
+40,Middle-aged+,4092,36,furniture,little,>7yr,good
+36,Middle-aged+,1287,24,furniture,moderate,unemployed,bad
+37,Middle-aged+,4565,24,repairs,moderate,4-7yr,good
+34,Middle-aged+,4135,24,repairs,quite rich,4-7yr,good
+22,Young,2421,24,furniture,moderate,1-4yr,bad
+51,Middle-aged+,500,48,repairs,rich,4-7yr,good
+38,Middle-aged+,3793,24,repairs,quite rich,<1yr,good
+41,Middle-aged+,10311,36,other,moderate,4-7yr,good
+18,Young,10393,24,car,quite rich,4-7yr,bad
+19,Young,4436,12,repairs,moderate,<1yr,bad
+49,Middle-aged+,8098,12,car,little,1-4yr,bad
+46,Middle-aged+,1234,36,education,moderate,>7yr,good
+51,Middle-aged+,13146,60,repairs,quite rich,<1yr,good
+35,Middle-aged+,7296,12,furniture,moderate,1-4yr,good
+18,Young,4832,24,other,moderate,1-4yr,bad
+37,Middle-aged+,500,48,furniture,moderate,>7yr,good
+54,Middle-aged+,2576,60,furniture,quite rich,<1yr,good
+45,Middle-aged+,1002,60,car,quite rich,1-4yr,good
+38,Middle-aged+,2040,24,furniture,moderate,<1yr,bad
+18,Young,1699,6,education,rich,unemployed,bad
+41,Middle-aged+,2871,24,car,rich,1-4yr,good
+45,Middle-aged+,1793,36,education,quite rich,<1yr,good
+31,Middle-aged+,11342,12,car,moderate,>7yr,good
+34,Middle-aged+,4431,48,car,little,1-4yr,good
+24,Young,3521,24,car,little,>7yr,bad
+33,Middle-aged+,10151,24,education,little,4-7yr,bad
+33,Middle-aged+,607,36,furniture,little,1-4yr,good
+30,Middle-aged+,11454,24,repairs,little,>7yr,good
+28,Young,5180,36,other,little,1-4yr,bad
+20,Young,1967,6,repairs,rich,>7yr,good
+41,Middle-aged+,1800,48,repairs,little,4-7yr,good
+25,Young,4454,36,other,rich,1-4yr,good
+64,Middle-aged+,2833,36,other,rich,4-7yr,good
+19,Young,11260,48,education,rich,<1yr,bad
+25,Young,3091,60,car,moderate,1-4yr,bad
+37,Middle-aged+,4886,12,furniture,little,unemployed,bad
+32,Middle-aged+,2278,24,other,moderate,1-4yr,good
+36,Middle-aged+,8273,36,repairs,rich,>7yr,good
+18,Young,7117,12,furniture,little,1-4yr,bad
+18,Young,6366,24,other,moderate,>7yr,bad
+46,Middle-aged+,3397,24,car,little,1-4yr,bad
+36,Middle-aged+,500,12,car,quite rich,unemployed,good
+29,Young,1420,48,other,moderate,1-4yr,good
+35,Middle-aged+,1399,48,repairs,little,<1yr,bad
+43,Middle-aged+,1512,24,furniture,quite rich,>7yr,good
+42,Middle-aged+,6913,6,furniture,quite rich,<1yr,good
+37,Middle-aged+,2546,24,other,rich,1-4yr,good
+23,Young,4824,36,repairs,little,4-7yr,bad
+69,Middle-aged+,11737,12,repairs,rich,1-4yr,good
+19,Young,4305,48,car,moderate,1-4yr,good
+25,Young,9493,48,other,quite rich,1-4yr,bad
+18,Young,5393,36,car,moderate,1-4yr,bad
+29,Young,7897,12,car,moderate,>7yr,good
+18,Young,2430,24,car,rich,1-4yr,bad
+24,Young,8108,48,repairs,moderate,>7yr,bad
+42,Middle-aged+,2721,24,car,little,4-7yr,good
+33,Middle-aged+,500,24,car,quite rich,1-4yr,good
+31,Middle-aged+,3249,60,repairs,little,>7yr,bad
+25,Young,14853,24,other,quite rich,1-4yr,good
+42,Middle-aged+,3857,6,car,moderate,4-7yr,bad
+36,Middle-aged+,1266,6,education,moderate,4-7yr,good
+33,Middle-aged+,5505,36,furniture,moderate,unemployed,good
+29,Young,1786,24,education,rich,4-7yr,good
+45,Middle-aged+,6118,6,furniture,moderate,4-7yr,good
+18,Young,878,60,car,little,1-4yr,bad
+52,Middle-aged+,2578,24,other,little,<1yr,bad
+32,Middle-aged+,3208,6,furniture,moderate,<1yr,good
+20,Young,500,24,other,moderate,4-7yr,good
+53,Middle-aged+,4807,24,education,moderate,4-7yr,good
+39,Middle-aged+,4890,36,furniture,rich,1-4yr,good
+39,Middle-aged+,5820,36,other,moderate,4-7yr,bad
+36,Middle-aged+,17767,48,education,little,1-4yr,good
+20,Young,1427,24,other,quite rich,<1yr,bad
+48,Middle-aged+,500,6,furniture,little,unemployed,good
+27,Young,675,12,education,rich,<1yr,good
+18,Young,12296,24,other,little,4-7yr,good
+25,Young,919,36,other,quite rich,1-4yr,bad
+28,Young,4044,24,other,rich,4-7yr,bad
+49,Middle-aged+,4061,60,repairs,moderate,4-7yr,bad
+24,Young,3323,48,repairs,little,1-4yr,bad
+22,Young,4979,12,car,little,<1yr,good
+44,Middle-aged+,9577,48,repairs,moderate,1-4yr,bad
+59,Middle-aged+,4739,48,other,moderate,4-7yr,good
+45,Middle-aged+,7928,12,furniture,moderate,4-7yr,good
+42,Middle-aged+,1232,24,other,quite rich,unemployed,good
+38,Middle-aged+,4018,24,car,rich,4-7yr,good
+29,Young,4324,24,furniture,moderate,<1yr,bad
+34,Middle-aged+,3592,48,other,moderate,1-4yr,bad
+61,Middle-aged+,1282,12,other,moderate,unemployed,good
+46,Middle-aged+,1431,24,furniture,quite rich,<1yr,good
+38,Middle-aged+,1620,6,education,rich,<1yr,good
+21,Young,10151,6,other,little,1-4yr,good
+33,Middle-aged+,2223,48,education,moderate,1-4yr,good
+38,Middle-aged+,1671,24,furniture,moderate,1-4yr,good
+50,Middle-aged+,2625,24,other,rich,>7yr,good
+43,Middle-aged+,500,48,repairs,little,4-7yr,bad
+36,Middle-aged+,7432,24,education,moderate,<1yr,good
+38,Middle-aged+,500,12,repairs,little,4-7yr,good
+50,Middle-aged+,11779,12,education,moderate,1-4yr,good
+36,Middle-aged+,2511,12,car,little,>7yr,bad
+25,Young,628,24,repairs,quite rich,4-7yr,good
+18,Young,5338,36,education,quite rich,>7yr,good
+46,Middle-aged+,5312,36,car,moderate,1-4yr,good
+42,Middle-aged+,6062,24,other,moderate,1-4yr,good
+40,Middle-aged+,3810,60,other,little,4-7yr,good
+25,Young,3194,48,repairs,little,<1yr,bad
+50,Middle-aged+,3633,6,education,little,<1yr,bad
+18,Young,500,36,other,little,<1yr,bad
+38,Middle-aged+,4948,48,car,moderate,4-7yr,good
+33,Middle-aged+,4852,12,furniture,rich,>7yr,good
+41,Middle-aged+,2966,60,education,little,4-7yr,bad
+33,Middle-aged+,1589,24,car,quite rich,>7yr,good
+38,Middle-aged+,2153,60,repairs,quite rich,<1yr,bad
+26,Young,8708,12,furniture,little,4-7yr,bad
+35,Middle-aged+,13372,6,furniture,rich,1-4yr,good
+21,Young,4835,24,car,moderate,<1yr,good
+33,Middle-aged+,5633,60,car,moderate,<1yr,good
+28,Young,1996,12,car,moderate,1-4yr,bad
+43,Middle-aged+,2740,60,furniture,little,4-7yr,bad
+50,Middle-aged+,1152,12,other,little,<1yr,good
+18,Young,3306,12,other,quite rich,4-7yr,good
+25,Young,2237,12,other,quite rich,1-4yr,good
+18,Young,879,24,repairs,little,<1yr,bad
+22,Young,3022,36,education,little,unemployed,bad
+24,Young,5880,24,furniture,moderate,4-7yr,good
+58,Middle-aged+,3062,48,other,quite rich,unemployed,good
+35,Middle-aged+,5668,60,car,moderate,4-7yr,good
+24,Young,1421,48,car,moderate,1-4yr,bad
+18,Young,1419,24,furniture,rich,1-4yr,good
+60,Middle-aged+,4277,48,furniture,quite rich,1-4yr,bad
+41,Middle-aged+,6565,24,furniture,quite rich,<1yr,good
+33,Middle-aged+,779,24,education,little,1-4yr,good
+35,Middle-aged+,6897,12,education,little,4-7yr,good
+42,Middle-aged+,13778,24,other,moderate,1-4yr,good
+46,Middle-aged+,875,48,furniture,little,1-4yr,bad
+63,Middle-aged+,500,24,car,quite rich,4-7yr,good
+20,Young,9014,6,repairs,quite rich,1-4yr,good
+50,Middle-aged+,1820,12,other,quite rich,1-4yr,good
+48,Middle-aged+,588,36,car,little,<1yr,bad
+18,Young,4454,24,education,moderate,unemployed,bad
+27,Young,2574,24,repairs,quite rich,4-7yr,bad
+50,Middle-aged+,2338,24,furniture,quite rich,>7yr,good
+42,Middle-aged+,3047,36,repairs,little,unemployed,bad
+27,Young,11791,24,other,moderate,1-4yr,bad
+59,Middle-aged+,500,60,repairs,little,1-4yr,bad
+49,Middle-aged+,6434,24,other,moderate,<1yr,bad
+24,Young,2639,24,repairs,moderate,<1yr,good
+19,Young,514,36,furniture,quite rich,1-4yr,good
+49,Middle-aged+,597,12,other,little,4-7yr,good
+35,Middle-aged+,5672,24,car,moderate,1-4yr,good
+40,Middle-aged+,3963,36,other,little,>7yr,bad
+44,Middle-aged+,2657,36,repairs,quite rich,4-7yr,bad
+51,Middle-aged+,2207,12,furniture,quite rich,1-4yr,good
+49,Middle-aged+,4703,36,education,little,>7yr,good
+62,Middle-aged+,6411,60,car,moderate,>7yr,good
+21,Young,4415,24,car,moderate,>7yr,bad
+43,Middle-aged+,4935,24,other,moderate,1-4yr,good
+38,Middle-aged+,1757,36,other,moderate,1-4yr,bad
+40,Middle-aged+,7276,24,repairs,quite rich,4-7yr,good
+40,Middle-aged+,2769,24,education,moderate,unemployed,bad
+42,Middle-aged+,1104,48,repairs,quite rich,4-7yr,good
+51,Middle-aged+,500,24,furniture,rich,unemployed,good
+39,Middle-aged+,1781,12,car,little,>7yr,good
+18,Young,500,6,other,moderate,1-4yr,good
+21,Young,3216,48,other,moderate,>7yr,bad
+35,Middle-aged+,500,36,car,moderate,4-7yr,good
+59,Middle-aged+,5539,24,furniture,moderate,<1yr,good
+18,Young,1451,60,education,little,1-4yr,bad
+56,Middle-aged+,6766,60,other,rich,1-4yr,bad
+36,Middle-aged+,1339,48,repairs,moderate,<1yr,good
+40,Middle-aged+,5483,12,repairs,rich,>7yr,good
+25,Young,500,60,other,rich,4-7yr,bad
+63,Middle-aged+,9951,6,repairs,little,<1yr,bad
+59,Middle-aged+,500,24,car,little,<1yr,good
+56,Middle-aged+,10273,36,repairs,moderate,4-7yr,bad
+41,Middle-aged+,15280,12,other,little,<1yr,bad
+18,Young,3184,24,repairs,moderate,1-4yr,good
+41,Middle-aged+,1201,24,other,moderate,1-4yr,good
+54,Middle-aged+,1223,12,car,quite rich,>7yr,bad
+45,Middle-aged+,5870,48,education,quite rich,1-4yr,good
+51,Middle-aged+,2167,24,education,little,<1yr,good
+46,Middle-aged+,9916,36,car,little,4-7yr,good
+26,Young,6728,24,furniture,little,1-4yr,bad
+40,Middle-aged+,923,12,car,little,unemployed,bad
+42,Middle-aged+,3384,36,car,moderate,>7yr,good
+25,Young,4612,60,repairs,quite rich,>7yr,good
+34,Middle-aged+,8150,12,education,little,1-4yr,good
+46,Middle-aged+,7783,36,education,moderate,4-7yr,good
+41,Middle-aged+,2215,6,furniture,rich,>7yr,good
+23,Young,1612,36,education,little,4-7yr,good
+40,Middle-aged+,500,48,repairs,rich,>7yr,good
+59,Middle-aged+,5392,12,car,moderate,1-4yr,bad
+22,Young,3763,24,repairs,little,1-4yr,bad
+35,Middle-aged+,12108,24,furniture,moderate,1-4yr,bad
+57,Middle-aged+,2831,6,repairs,quite rich,>7yr,good
+38,Middle-aged+,5671,6,other,moderate,4-7yr,good
+42,Middle-aged+,1974,12,repairs,little,<1yr,good
+51,Middle-aged+,5783,12,furniture,rich,1-4yr,good
+54,Middle-aged+,6883,24,other,little,<1yr,bad
+44,Middle-aged+,1687,12,education,little,unemployed,good
+41,Middle-aged+,1759,12,car,little,4-7yr,good
+51,Middle-aged+,1760,48,car,moderate,>7yr,good
+61,Middle-aged+,2131,6,education,little,4-7yr,good
+39,Middle-aged+,500,24,car,quite rich,>7yr,good
+21,Young,1533,48,furniture,little,unemployed,bad
+40,Middle-aged+,2194,24,education,moderate,1-4yr,good
+42,Middle-aged+,1815,24,car,moderate,1-4yr,good
+48,Middle-aged+,2749,36,repairs,rich,4-7yr,good
+18,Young,1124,24,repairs,little,>7yr,good
+29,Young,2924,48,car,quite rich,1-4yr,bad
+23,Young,7203,48,repairs,moderate,1-4yr,bad
+18,Young,500,48,other,moderate,<1yr,bad
+31,Middle-aged+,2573,60,education,moderate,<1yr,bad
+44,Middle-aged+,2974,24,furniture,rich,4-7yr,good
+30,Middle-aged+,5413,24,furniture,little,4-7yr,good
+53,Middle-aged+,12495,24,other,little,>7yr,good
+21,Young,2284,36,education,quite rich,1-4yr,bad
+66,Middle-aged+,500,24,car,quite rich,1-4yr,good
+44,Middle-aged+,6919,48,car,little,>7yr,bad
+37,Middle-aged+,500,48,repairs,rich,1-4yr,good
+25,Young,977,24,other,little,1-4yr,bad
+34,Middle-aged+,3435,12,other,quite rich,1-4yr,good
+47,Middle-aged+,5510,6,furniture,moderate,unemployed,good
+32,Middle-aged+,2370,48,repairs,moderate,1-4yr,bad
+61,Middle-aged+,6706,24,other,moderate,1-4yr,good
+37,Middle-aged+,2378,24,education,rich,1-4yr,good
+37,Middle-aged+,2677,24,education,little,1-4yr,good
+64,Middle-aged+,2275,36,other,little,1-4yr,good
+18,Young,4497,24,education,moderate,1-4yr,good
+35,Middle-aged+,500,24,furniture,little,>7yr,good
+34,Middle-aged+,3244,36,other,moderate,>7yr,good
+35,Middle-aged+,500,60,repairs,quite rich,unemployed,good
+62,Middle-aged+,2113,60,car,little,1-4yr,bad
+46,Middle-aged+,5279,36,car,rich,1-4yr,good
+31,Middle-aged+,3450,12,other,little,4-7yr,good
+36,Middle-aged+,2010,36,car,quite rich,4-7yr,bad
+47,Middle-aged+,8171,24,education,little,4-7yr,bad
+54,Middle-aged+,1280,24,education,rich,>7yr,good
+19,Young,1677,36,repairs,rich,4-7yr,bad
+46,Middle-aged+,3583,24,car,little,4-7yr,bad
+22,Young,500,24,other,quite rich,<1yr,bad
+20,Young,860,36,education,moderate,1-4yr,bad
+31,Middle-aged+,3451,12,car,moderate,4-7yr,bad
+41,Middle-aged+,500,6,other,little,4-7yr,good
+52,Middle-aged+,589,48,car,quite rich,1-4yr,good
+55,Middle-aged+,7262,24,car,little,<1yr,bad
+41,Middle-aged+,1069,60,education,moderate,>7yr,bad
+40,Middle-aged+,4760,60,car,rich,1-4yr,good
+75,Middle-aged+,6514,12,car,little,1-4yr,good
+33,Middle-aged+,2333,36,car,moderate,1-4yr,good
+41,Middle-aged+,1936,60,other,quite rich,4-7yr,good
+36,Middle-aged+,500,36,repairs,moderate,>7yr,good
+37,Middle-aged+,6942,24,furniture,quite rich,1-4yr,good
+18,Young,3673,24,education,quite rich,<1yr,good
+35,Middle-aged+,500,24,car,moderate,4-7yr,bad
+33,Middle-aged+,500,24,repairs,little,>7yr,good
+18,Young,5869,12,other,moderate,unemployed,good
+18,Young,3316,36,other,rich,>7yr,good
+27,Young,4684,24,repairs,moderate,4-7yr,good
+32,Middle-aged+,659,36,other,little,<1yr,bad
+38,Middle-aged+,3762,36,car,rich,4-7yr,good
+39,Middle-aged+,12931,60,repairs,quite rich,>7yr,bad
+25,Young,1237,24,repairs,quite rich,unemployed,bad
+47,Middle-aged+,2990,60,education,little,1-4yr,bad
+59,Middle-aged+,4565,24,repairs,moderate,<1yr,good
+50,Middle-aged+,3134,24,education,moderate,unemployed,bad
+56,Middle-aged+,5472,24,education,little,<1yr,good
+71,Middle-aged+,500,36,furniture,quite rich,4-7yr,good
+45,Middle-aged+,1796,24,other,rich,1-4yr,good
+41,Middle-aged+,602,48,other,quite rich,1-4yr,good
+44,Middle-aged+,673,60,repairs,little,<1yr,bad
+18,Young,6680,24,car,moderate,>7yr,bad
+36,Middle-aged+,1428,36,furniture,rich,1-4yr,good
+18,Young,4945,48,other,moderate,1-4yr,good
+46,Middle-aged+,5640,48,furniture,rich,4-7yr,bad
+44,Middle-aged+,6186,24,car,rich,4-7yr,good
+75,Middle-aged+,1486,24,car,little,4-7yr,good
+58,Middle-aged+,11898,24,repairs,rich,>7yr,good
+32,Middle-aged+,2080,24,other,rich,1-4yr,good
+44,Middle-aged+,1879,36,furniture,quite rich,>7yr,good
+52,Middle-aged+,1810,36,car,rich,4-7yr,good
+39,Middle-aged+,2460,6,repairs,rich,1-4yr,good
+49,Middle-aged+,5629,36,furniture,moderate,1-4yr,good
+49,Middle-aged+,1186,60,car,moderate,4-7yr,good
+38,Middle-aged+,9087,48,other,quite rich,<1yr,good
+24,Young,500,12,repairs,rich,1-4yr,bad
+44,Middle-aged+,5771,48,other,rich,<1yr,good
+50,Middle-aged+,4574,12,repairs,little,<1yr,good
+59,Middle-aged+,6066,6,furniture,little,1-4yr,good
+34,Middle-aged+,1127,48,car,little,>7yr,good
+24,Young,5159,24,education,little,1-4yr,bad
+26,Young,1118,24,furniture,moderate,1-4yr,good
+42,Middle-aged+,1663,60,car,quite rich,4-7yr,good
+56,Middle-aged+,500,36,furniture,moderate,1-4yr,good
+56,Middle-aged+,9326,24,furniture,moderate,4-7yr,good
+45,Middle-aged+,1152,6,car,little,1-4yr,good
+29,Young,2708,48,car,moderate,1-4yr,bad
+40,Middle-aged+,5011,12,repairs,quite rich,1-4yr,good
+18,Young,500,12,car,quite rich,>7yr,good
+34,Middle-aged+,810,12,other,moderate,4-7yr,good
+73,Middle-aged+,14401,6,other,rich,unemployed,good
+18,Young,1306,48,other,little,4-7yr,good
+34,Middle-aged+,5219,60,repairs,moderate,1-4yr,good
+30,Middle-aged+,3186,24,education,little,1-4yr,good
+22,Young,4538,36,other,moderate,unemployed,bad
+22,Young,1525,24,repairs,rich,<1yr,good
+21,Young,4578,48,education,little,4-7yr,good
+32,Middle-aged+,500,12,repairs,little,<1yr,bad
+42,Middle-aged+,7819,6,repairs,little,>7yr,bad
+38,Middle-aged+,10096,48,repairs,little,4-7yr,good
+39,Middle-aged+,2898,24,education,rich,1-4yr,good
+25,Young,697,48,other,rich,4-7yr,good
+40,Middle-aged+,2322,12,other,little,1-4yr,good
+18,Young,2957,36,furniture,little,1-4yr,bad
+35,Middle-aged+,2757,36,repairs,rich,1-4yr,good
+27,Young,500,36,education,little,1-4yr,bad
+28,Young,16800,12,furniture,little,>7yr,bad
+24,Young,17710,36,repairs,rich,>7yr,bad
+18,Young,3552,12,repairs,moderate,4-7yr,good
+25,Young,1378,48,other,moderate,1-4yr,bad
+20,Young,1506,60,car,moderate,1-4yr,bad
+47,Middle-aged+,503,24,other,rich,1-4yr,good
+34,Middle-aged+,2701,60,education,quite rich,<1yr,good
+36,Middle-aged+,6666,12,car,rich,1-4yr,good
+18,Young,2021,24,car,moderate,>7yr,good
+50,Middle-aged+,12310,48,furniture,little,4-7yr,bad
+31,Middle-aged+,5474,6,furniture,rich,1-4yr,good
+55,Middle-aged+,3383,36,repairs,quite rich,4-7yr,good
+40,Middle-aged+,500,36,repairs,moderate,<1yr,good
+47,Middle-aged+,3041,24,other,little,1-4yr,bad
+48,Middle-aged+,3250,24,furniture,quite rich,1-4yr,good
+33,Middle-aged+,3056,36,car,moderate,1-4yr,bad
+34,Middle-aged+,2280,12,education,rich,1-4yr,good
+60,Middle-aged+,1021,12,other,rich,>7yr,good
+39,Middle-aged+,18172,48,repairs,quite rich,>7yr,good
+59,Middle-aged+,635,36,car,little,1-4yr,bad
+37,Middle-aged+,1677,12,education,rich,4-7yr,good
+40,Middle-aged+,8078,24,repairs,moderate,4-7yr,good
+33,Middle-aged+,9809,24,furniture,little,<1yr,bad
+25,Young,5413,12,education,rich,>7yr,bad
+18,Young,500,12,car,moderate,unemployed,bad
+39,Middle-aged+,1127,12,furniture,little,>7yr,good
+47,Middle-aged+,2966,24,education,moderate,>7yr,bad
+18,Young,6993,36,car,moderate,<1yr,good
+44,Middle-aged+,5981,24,repairs,little,1-4yr,bad
+42,Middle-aged+,6191,36,education,little,unemployed,good
+44,Middle-aged+,2870,24,other,little,1-4yr,good
+50,Middle-aged+,1280,24,education,little,1-4yr,bad
+64,Middle-aged+,3207,6,education,rich,4-7yr,good
+41,Middle-aged+,2823,48,education,quite rich,1-4yr,bad
+27,Young,844,36,education,little,4-7yr,bad
+65,Middle-aged+,500,36,other,little,4-7yr,good
+56,Middle-aged+,10916,12,education,little,<1yr,bad
+47,Middle-aged+,7868,48,other,moderate,1-4yr,good
+32,Middle-aged+,11082,48,car,little,4-7yr,good
+28,Young,9444,24,car,quite rich,1-4yr,bad
+25,Young,778,24,repairs,little,<1yr,bad
+57,Middle-aged+,6490,60,furniture,little,unemployed,bad
+42,Middle-aged+,4077,24,furniture,moderate,1-4yr,good
+21,Young,3724,60,other,rich,4-7yr,good
+57,Middle-aged+,3251,36,furniture,little,>7yr,bad
+22,Young,2477,12,education,quite rich,1-4yr,good
+26,Young,2062,24,car,moderate,<1yr,good
+50,Middle-aged+,919,36,furniture,little,1-4yr,good
+47,Middle-aged+,4470,48,other,rich,4-7yr,good
+47,Middle-aged+,500,48,furniture,rich,>7yr,bad
+43,Middle-aged+,3903,48,car,moderate,1-4yr,good
+35,Middle-aged+,3004,24,furniture,quite rich,1-4yr,good
+34,Middle-aged+,4601,48,other,rich,4-7yr,good
+25,Young,10120,12,education,little,<1yr,bad
+22,Young,2665,12,furniture,rich,>7yr,good
+43,Middle-aged+,500,48,other,little,<1yr,bad
+35,Middle-aged+,500,36,furniture,little,>7yr,good
+18,Young,6069,36,car,little,1-4yr,bad
+37,Middle-aged+,5976,60,car,little,1-4yr,bad
+43,Middle-aged+,1433,60,other,quite rich,unemployed,bad
+19,Young,1096,24,furniture,little,1-4yr,bad
+24,Young,6112,60,furniture,little,>7yr,bad
+33,Middle-aged+,2154,48,car,moderate,unemployed,good
+53,Middle-aged+,500,12,furniture,little,4-7yr,good
+30,Middle-aged+,5670,12,furniture,little,4-7yr,good
+36,Middle-aged+,5318,6,furniture,moderate,4-7yr,good
+38,Middle-aged+,16098,12,car,rich,1-4yr,good
+32,Middle-aged+,1675,24,other,quite rich,1-4yr,good
+68,Middle-aged+,6770,6,repairs,moderate,unemployed,bad
+42,Middle-aged+,500,12,car,moderate,4-7yr,good
+18,Young,1401,24,car,quite rich,1-4yr,good
+58,Middle-aged+,3510,36,repairs,quite rich,1-4yr,good
+28,Young,6863,24,car,little,unemployed,bad
+34,Middle-aged+,7641,12,repairs,moderate,1-4yr,good
+45,Middle-aged+,5103,24,repairs,moderate,1-4yr,bad
+38,Middle-aged+,5908,12,other,little,<1yr,good
+55,Middle-aged+,596,24,car,quite rich,<1yr,good
+30,Middle-aged+,1638,12,furniture,quite rich,1-4yr,good
+21,Young,2636,48,car,moderate,unemployed,bad
+26,Young,759,36,car,little,1-4yr,bad
+18,Young,1151,24,furniture,little,<1yr,bad
+28,Young,9099,6,other,moderate,1-4yr,good
+31,Middle-aged+,1063,6,other,rich,<1yr,bad
+52,Middle-aged+,2679,12,furniture,quite rich,1-4yr,good
+53,Middle-aged+,4512,12,furniture,little,4-7yr,good
+37,Middle-aged+,500,24,education,moderate,1-4yr,good
+40,Middle-aged+,1490,6,education,quite rich,4-7yr,bad
+38,Middle-aged+,2243,24,education,little,1-4yr,good
+51,Middle-aged+,4238,48,education,moderate,1-4yr,bad
+21,Young,7667,12,repairs,rich,unemployed,good
+21,Young,4258,48,furniture,quite rich,>7yr,bad
+42,Middle-aged+,1336,24,furniture,little,>7yr,good
+19,Young,1630,48,education,rich,>7yr,good
+20,Young,1204,6,other,little,1-4yr,bad
+23,Young,22266,36,repairs,little,1-4yr,bad
+18,Young,2609,60,furniture,little,<1yr,bad
+26,Young,2874,12,car,quite rich,>7yr,good
+18,Young,1737,24,other,moderate,<1yr,good
+27,Young,1548,36,education,moderate,4-7yr,bad
+64,Middle-aged+,3681,24,education,little,>7yr,good
+36,Middle-aged+,1041,48,other,quite rich,<1yr,good
+41,Middle-aged+,2398,24,furniture,little,>7yr,good
+48,Middle-aged+,12642,24,education,moderate,1-4yr,good
+29,Young,1090,36,car,little,<1yr,bad
+41,Middle-aged+,3951,24,education,moderate,4-7yr,good
+55,Middle-aged+,1622,36,car,quite rich,4-7yr,good
+58,Middle-aged+,1956,12,other,little,>7yr,bad
+29,Young,1370,24,other,moderate,1-4yr,good
+41,Middle-aged+,500,24,education,moderate,<1yr,good
+34,Middle-aged+,500,60,car,rich,4-7yr,good
+25,Young,1088,12,education,quite rich,<1yr,bad
+39,Middle-aged+,500,12,furniture,moderate,<1yr,good
+42,Middle-aged+,2009,36,other,little,1-4yr,bad
+65,Middle-aged+,5972,48,repairs,moderate,4-7yr,good
+29,Young,1715,6,repairs,little,1-4yr,good
+31,Middle-aged+,662,36,other,little,1-4yr,bad
+35,Middle-aged+,500,12,repairs,moderate,1-4yr,good
+46,Middle-aged+,1229,12,car,little,>7yr,good
+24,Young,500,36,car,quite rich,4-7yr,bad
+36,Middle-aged+,2232,24,car,little,<1yr,bad
+30,Middle-aged+,6434,60,repairs,quite rich,1-4yr,good
+25,Young,2472,36,furniture,little,<1yr,bad
+61,Middle-aged+,6987,60,car,quite rich,4-7yr,good
+37,Middle-aged+,1373,12,repairs,moderate,1-4yr,good
+40,Middle-aged+,5975,36,repairs,quite rich,1-4yr,bad
+37,Middle-aged+,4204,60,furniture,moderate,1-4yr,bad
+65,Middle-aged+,4856,60,other,rich,>7yr,good
+39,Middle-aged+,2211,36,education,moderate,<1yr,bad
+18,Young,3836,36,car,moderate,<1yr,good
+43,Middle-aged+,8620,24,other,moderate,<1yr,bad
+59,Middle-aged+,1091,12,car,moderate,<1yr,good
+37,Middle-aged+,8486,60,education,little,1-4yr,bad
+47,Middle-aged+,5820,12,car,moderate,<1yr,good
+50,Middle-aged+,3044,36,repairs,little,<1yr,bad
+18,Young,15058,24,repairs,little,>7yr,bad
+41,Middle-aged+,4039,6,repairs,little,4-7yr,bad
+37,Middle-aged+,808,24,furniture,rich,<1yr,bad
+63,Middle-aged+,10356,6,furniture,little,<1yr,bad
+18,Young,1541,12,car,quite rich,4-7yr,good
+69,Middle-aged+,10726,24,car,little,<1yr,good
+40,Middle-aged+,2127,36,repairs,quite rich,4-7yr,good
+38,Middle-aged+,5955,6,furniture,little,1-4yr,good
+18,Young,2660,6,other,moderate,4-7yr,bad
+18,Young,833,6,repairs,quite rich,1-4yr,good
+20,Young,9060,12,furniture,little,4-7yr,bad
+23,Young,2576,24,education,little,<1yr,bad
+58,Middle-aged+,500,60,car,little,>7yr,good

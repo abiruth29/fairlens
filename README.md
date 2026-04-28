@@ -36,7 +36,8 @@ Most organizations have **no tooling** to detect, measure, or fix this before de
 
 ## Demo
 
-> **Live MVP**: https://fairlens.web.app _(deploy with Firebase Hosting)_
+> **Live MVP**: https://fairlens-gdg2026.web.app
+> **API Docs**: https://fairlens-api-339307761664.us-central1.run.app/docs
 > **Demo Video**: [3-minute walkthrough](#)
 
 ---

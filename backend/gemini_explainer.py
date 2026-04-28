@@ -104,8 +104,17 @@ Focus on what the user should DO with this information."""
     try:
         response = model.generate_content(prompt)
         return response.text.strip()
-    except Exception as e:
-        return f"Unable to generate AI explanation: {str(e)}"
+    except Exception:
+        sensitive = audit_result.get("sensitive_attribute", "the sensitive attribute")
+        severity = audit_result.get("severity", "significant")
+        metrics = audit_result.get("metrics", {})
+        dpd = metrics.get("demographic_parity_difference", None)
+        dpd_str = f" The demographic parity difference is {dpd:.3f}." if dpd is not None else ""
+        return (
+            f"The audit detected {severity.lower()} bias related to '{sensitive}'.{dpd_str} "
+            f"This means different groups are receiving unequal outcomes from the model. "
+            f"Review the metrics below and use the Mitigation Plan to address the most critical issues."
+        )
 
 
 def generate_mitigation_plan(audit_result: Dict) -> Dict:
